@@ -1,0 +1,746 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-04-18T02:57:26.302Z,41.8347,15.4046,10,4.4,mb,,44,0.265,1.16,us,us70008z3f,2020-07-09T14:31:23.040Z,"3 km ENE of Poggio Imperiale, Italy",earthquake,3.5,1.9,0.162,11,reviewed,us,us
+2020-01-08T07:50:51.844Z,41.2435,16.2853,10,2.7,ml,,140,0.524,0.38,us,us70006wmg,2020-04-02T21:27:53.040Z,"1 km NW of Andria, Italy",earthquake,1.8,2,0.074,24,reviewed,us,us
+2019-09-21T19:55:48.540Z,40.3701,14.9475,299.64,4.7,mb,,37,0.72,0.66,us,us60005ltu,2019-12-10T17:27:01.040Z,"4 km WNW of Agropoli, Italy",earthquake,6,3.3,0.072,59,reviewed,us,us
+2018-11-22T07:35:14.710Z,40.3623,13.9879,386.04,4,mb,,83,1.447,0.82,us,us1000hxhn,2019-02-02T20:02:31.040Z,Tyrrhenian Sea,earthquake,6,9,0.143,13,reviewed,us,us
+2018-09-18T21:36:43.110Z,40.7951,14.1448,10,2.5,md,,212,0.397,0.77,us,us2000hh0s,2018-11-27T15:51:59.040Z,"2 km SW of Bagnoli, Italy",earthquake,4.4,2,,,reviewed,us,rom
+2017-08-21T18:57:51.110Z,40.7832,13.9394,2.65,4.2,mb,,49,0.536,0.93,us,us2000aaae,2020-07-10T16:50:42.052Z,"4 km NNE of Casamicciola Terme, Italy",earthquake,4.1,5.9,0.141,14,reviewed,us,us
+2016-01-16T18:55:11.470Z,41.5846,14.6515,5.4,4.4,mwr,,27,0.556,1.36,us,us10004f2x,2020-07-10T14:58:43.715Z,"3 km SSW of Ripalimosani, Italy",earthquake,4.6,4.4,0.045,48,reviewed,us,us
+2015-01-01T19:48:04.650Z,41.5109,14.3239,318.14,4.2,mb,,53,0.513,0.68,us,usc000tb6q,2015-03-27T07:01:05.040Z,"2 km NW of Roccamandolfi, Italy",earthquake,6.5,7.2,0.215,6,reviewed,us,us
+2014-12-24T11:40:10.990Z,41.698,14.957,17.6,4.4,mb,,,,1.31,us,usc000t9s3,2015-03-17T02:36:56.040Z,"1 km NNW of San Giuliano di Puglia, Italy",earthquake,5.6,4.6,0.139,19,reviewed,rom,us
+2014-12-14T14:33:31.850Z,40.4602,15.0133,299.6,4.2,mb,,36,0.663,0.59,us,usc000t6jb,2015-03-04T21:55:03.040Z,"0 km NE of Capaccio Scalo, Italy",earthquake,6.7,5.1,0.044,153,reviewed,us,us
+2014-01-22T22:44:10.100Z,40.446,15.105,2,4,mb,,,,0.97,us,usb000m6gj,2014-03-27T18:15:36.000Z,,earthquake,,4.9,0.212,6,reviewed,rom,us
+2014-01-20T07:12:40.480Z,41.362,14.449,11.1,4.5,mb,,,,1,us,usb000m4ku,2016-12-07T13:32:01.371Z,southern Italy,earthquake,,4.4,0.119,22,reviewed,rom,us
+2013-12-29T17:08:43.000Z,41.369,14.445,10.5,5.1,mwr,,,,1.05,us,usc000ltr4,2021-01-25T11:32:49.951Z,"5 km E of Castello del Matese, Italy",earthquake,,3.9,0.05,,reviewed,rom,us
+2012-09-27T01:08:22.480Z,41.17,14.95,6.3,4.6,mb,230,27.1,,,us,usp000jt1f,2015-03-24T01:32:50.953Z,"0 km E of Sant'Arcangelo Trimonte, Italy",earthquake,,,,13,reviewed,rom,us
+2012-08-12T01:21:36.000Z,41.771,16.266,8.4,4.1,ml,60,37.1,,,us,usp000jq6z,2014-11-07T01:48:33.345Z,"14 km SSE of Vieste, Italy",earthquake,,,,,reviewed,rom,rom
+2011-04-12T03:32:55.000Z,41.663,16.117,10.1,3.9,ml,52,86.8,,,us,usp000hzt0,2014-11-07T01:44:31.981Z,"7 km SE of Mattinata, Italy",earthquake,,,,,reviewed,rom,rom
+2010-09-17T12:20:18.000Z,41.49,15.63,30.1,4.4,ml,77,31.8,,,us,usp000hkur,2014-11-07T01:42:28.627Z,"7 km ENE of Foggia, Italy",earthquake,,,,,reviewed,rom,rom
+2008-06-11T16:48:08.600Z,41.69,15.743,1,2.5,ml,6,244.5,,,us,usp000g98d,2014-11-07T01:36:19.326Z,"2 km SE of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,rom,rom
+2008-06-02T23:11:03.400Z,40.682,15.478,8.8,2.6,ml,8,92.4,,,us,usp000g8eb,2014-11-07T01:36:13.791Z,"1 km N of Ricigliano, Italy",earthquake,,,,,reviewed,rom,rom
+2008-05-30T17:22:53.790Z,40.567,14.883,309.2,4.4,mb,236,33.9,,0.98,us,usp000g84t,2014-11-07T01:36:07.993Z,"7 km SSW of Pagliarone, Italy",earthquake,,1.7,,72,reviewed,us,us
+2008-05-27T16:19:33.500Z,40.764,15.325,8.3,2.7,ml,15,109.3,,,us,usp000g7x2,2014-11-07T01:36:07.015Z,"2 km SSE of Laviano, Italy",earthquake,,,,,reviewed,rom,rom
+2008-05-20T08:08:11.000Z,41.645,14.86,18.1,2.8,ml,11,117.1,,,us,usp000g7a7,2014-11-07T01:36:03.649Z,"3 km NNW of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2008-04-23T10:48:24.700Z,41.812,16.005,22,2.7,ml,4,243.1,,,us,usp000g4mq,2014-11-07T01:35:41.804Z,"10 km SSE of Vico del Gargano, Italy",earthquake,,,,,reviewed,rom,rom
+2008-04-21T10:17:33.200Z,41.684,15.758,23.8,2.8,ml,15,93.2,,,us,usp000g4fx,2014-11-07T01:35:41.222Z,"3 km SE of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,rom,rom
+2008-04-07T21:44:39.200Z,40.543,15.23,337.7,2.8,m,12,104.4,,,us,usp000g3ah,2014-11-07T01:35:33.091Z,"1 km S of Postiglione, Italy",earthquake,,,,,reviewed,rom,rom
+2008-03-20T17:50:29.600Z,41.59,15.785,8.5,2.5,ml,8,153.6,,,us,usp000g1vh,2014-11-07T01:35:16.984Z,"12 km WSW of Manfredonia, Italy",earthquake,,,,,reviewed,rom,rom
+2008-03-18T09:01:18.600Z,41.368,15.703,3.4,2.7,ml,17,147.7,,,us,usp000g1qz,2014-11-07T01:35:16.476Z,"0 km ENE of Carapelle, Italy",earthquake,,,,,reviewed,rom,rom
+2008-02-26T06:29:31.800Z,41.766,15.193,14.7,2.5,ml,16,111.9,,,us,usp000fzzv,2014-11-07T01:35:03.843Z,"5 km SSE of Serracapriola, Italy",earthquake,,,,,reviewed,rom,rom
+2008-02-26T03:37:15.200Z,41.752,15.202,17.4,3.3,ml,47,49.3,,,us,usp000fzzd,2014-11-07T01:35:03.793Z,"5 km WNW of San Paolo di Civitate, Italy",earthquake,,,,,reviewed,rom,pdg
+2008-02-20T08:06:19.100Z,41.582,13.78,8.5,4.6,mb,169,28.9,,,us,usp000fzat,2014-11-07T01:34:59.172Z,"3 km W of Belmonte Castello, Italy",earthquake,,,,16,reviewed,rom,us
+2008-02-11T13:05:36.000Z,41.705,14.942,16.7,2.6,ml,17,108.2,,,us,usp000fyp2,2014-11-07T01:34:55.969Z,"0 km E of Bonefro, Italy",earthquake,,,,,reviewed,rom,rom
+2008-02-06T18:34:17.990Z,41.295,13.956,10,3.1,ml,34,71.2,,1.17,us,usp000fyay,2014-11-07T01:34:54.465Z,"2 km WNW of Roccamonfina, Italy",earthquake,,,,,reviewed,us,rom
+2008-01-24T14:43:02.600Z,41.485,14.602,12.6,2.7,ml,13,97,,,us,usp000fxc3,2014-11-07T01:34:45.656Z,"1 km SE of Vinchiaturo, Italy",earthquake,,,,,reviewed,rom,rom
+2008-01-19T15:11:45.500Z,41.765,16.256,24.3,3.2,ml,28,75.8,,,us,usp000fx16,2014-11-07T01:34:43.846Z,"14 km SSE of Vieste, Italy",earthquake,,,,,reviewed,rom,rom
+2008-01-12T23:39:48.500Z,41.392,14.496,5.7,2.8,ml,17,122.7,,,us,usp000fwkm,2014-11-07T01:34:41.190Z,"6 km SW of Guardiaregia, Italy",earthquake,,,,,reviewed,rom,rom
+2007-12-06T21:25:26.300Z,40.855,15.177,10.4,2.8,ml,19,111.6,,,us,usp000ftyc,2014-11-07T01:34:21.865Z,"2 km S of Lioni, Italy",earthquake,,,,,reviewed,rom,rom
+2007-12-04T13:54:32.000Z,41.494,14.247,10.5,2.5,ml,7,166.2,,,us,usp000ftuc,2014-11-07T01:34:21.203Z,southern Italy,earthquake,,,,,reviewed,rom,rom
+2007-10-18T23:25:45.010Z,41.674,14.685,10,4,ml,88,52.9,,1.19,us,usp000fqvc,2014-11-07T01:33:57.304Z,"2 km SSW of Petrella Tifernina, Italy",earthquake,,,,,reviewed,us,rom
+2007-08-29T20:10:14.600Z,40.616,15.536,4.6,2.8,ml,12,130.4,,,us,usp000fkz0,2014-11-07T01:33:24.362Z,"2 km NE of Vietri di Potenza, Italy",earthquake,,,,,reviewed,rom,rom
+2007-08-26T20:23:13.700Z,40.471,15.411,9,2.8,md,11,171.7,,,us,usp000fkrx,2014-11-07T01:33:23.282Z,"4 km NE of Corleto Monforte, Italy",earthquake,,,,,reviewed,rom,rom
+2007-08-22T07:07:08.300Z,41.445,15.794,2.3,2.8,ml,18,145.8,,,us,usp000fke4,2014-11-07T01:33:20.978Z,"12 km NE of Carapelle, Italy",earthquake,,,,,reviewed,rom,rom
+2007-06-02T12:38:59.200Z,41.751,16.101,24.7,3,ml,18,231.9,,,us,usp000fd7h,2014-11-07T01:32:37.612Z,"6 km NE of Mattinata, Italy",earthquake,,,,,reviewed,rom,rom
+2007-05-24T17:32:14.100Z,41.692,14.808,14.4,2.6,ml,26,108.3,,,us,usp000fcnn,2014-11-07T01:32:31.448Z,"0 km NNW of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2007-05-14T21:29:26.800Z,41.804,15.916,23.2,2.5,ml,7,245.2,,,us,usp000fbz6,2014-11-07T01:32:28.141Z,"6 km SE of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2007-03-24T10:31:52.350Z,40.591,15.085,309,3.3,m,17,73.4,,0.79,us,usp000f79s,2014-11-07T01:31:55.207Z,"3 km SE of Eboli, Italy",earthquake,,4.3,,,reviewed,us,rom
+2007-03-14T16:44:32.600Z,40.595,15.795,8.9,2.5,ml,6,196,,,us,usp000f6qa,2014-11-07T01:31:52.510Z,"2 km NNE of Pignola, Italy",earthquake,,,,,reviewed,rom,rom
+2007-03-11T14:36:03.800Z,41.785,13.934,7.4,2.5,ml,9,122.2,,,us,usp000f6gq,2014-11-07T01:31:51.529Z,"1 km NNW of Villetta Barrea, Italy",earthquake,,,,,reviewed,rom,rom
+2007-03-11T00:12:51.700Z,41.788,13.933,7.2,2.7,ml,11,122.8,,,us,usp000f6fe,2014-11-07T01:31:51.208Z,"1 km NNW of Villetta Barrea, Italy",earthquake,,,,,reviewed,rom,rom
+2007-02-28T13:42:35.200Z,41.67,14.827,18.3,2.6,ml,13,108.6,,,us,usp000f5ug,2014-11-07T01:31:43.213Z,"2 km SE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2007-02-25T14:58:59.000Z,41.797,15.907,26.4,3.1,ml,28,165.8,,,us,usp000f5m4,2014-11-07T01:31:42.159Z,"6 km SE of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2007-02-20T10:27:49.200Z,40.81,15.251,11.1,2.5,ml,8,116.3,,,us,usp000f57h,2014-11-07T01:31:40.208Z,"2 km ESE of Caposele, Italy",earthquake,,,,,reviewed,rom,rom
+2007-02-17T17:54:59.300Z,40.633,15.51,11.1,3.1,ml,20,110.9,,,us,usp000f51r,2014-11-07T01:31:39.300Z,"1 km S of Balvano, Italy",earthquake,,,,,reviewed,rom,rom
+2007-02-15T17:59:26.200Z,40.536,15.621,8.7,2.6,ml,6,175.4,,,us,usp000f4xm,2014-11-07T01:31:38.206Z,"1 km WSW of Satriano di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2007-02-13T05:48:40.600Z,41.787,13.94,8.2,2.5,ml,9,124.6,,,us,usp000f4st,2014-11-07T01:31:37.199Z,"1 km N of Villetta Barrea, Italy",earthquake,,,,,reviewed,rom,rom
+2007-02-09T18:24:26.200Z,40.645,15.984,32.3,3,ml,10,149.6,,,us,usp000f4k2,2014-11-07T01:31:36.029Z,"5 km NE of Brindisi Montagna, Italy",earthquake,,,,,reviewed,rom,rom
+2006-12-29T07:07:27.800Z,41.194,14.757,9.9,2.6,md,7,250.1,,,us,usp000f18d,2014-11-07T01:31:12.952Z,"5 km ESE of Ponte, Italy",earthquake,,,,,reviewed,rom,rom
+2006-12-29T06:23:31.600Z,41.781,15.499,3.1,2.8,ml,14,124.9,,,us,usp000f189,2014-11-07T01:31:12.938Z,"4 km E of Apricena, Italy",earthquake,,,,,reviewed,rom,rom
+2006-12-28T01:30:53.800Z,41.318,14.198,10.1,2.7,ml,25,144.4,,,us,usp000f15k,2014-11-07T01:31:12.474Z,"2 km ESE of Pietravairano, Italy",earthquake,,,,,reviewed,rom,rom
+2006-12-27T22:13:41.600Z,41.311,14.209,10.6,3.7,md,105,40.5,,,us,usp000f154,2014-11-07T01:31:12.429Z,"3 km WNW of Baia, Italy",earthquake,,,,,reviewed,rom,pdg
+2006-12-05T06:20:17.000Z,41.08,15.269,15.9,2.5,ml,10,78.2,,,us,usp000ezjd,2014-11-07T01:31:05.197Z,"2 km NE of Vallesaccarda, Italy",earthquake,,,,,reviewed,rom,rom
+2006-11-15T15:08:39.500Z,40.303,15.683,9,2.7,ml,5,156.4,,,us,usp000exhy,2014-11-07T01:30:49.937Z,"3 km NNW of Montesano sulla Marcellana, Italy",earthquake,,,,,reviewed,rom,rom
+2006-10-25T13:34:14.200Z,41.551,13.792,8.8,3.5,md,39,65.1,,,us,usp000ew0e,2014-11-07T01:30:37.810Z,"1 km E of Terelle, Italy",earthquake,,,,,reviewed,rom,pdg
+2006-10-09T11:36:54.300Z,41.77,15.867,27.5,3,ml,15,213.8,,,us,usp000eusv,2014-11-07T01:30:31.653Z,"8 km S of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2006-10-03T23:02:37.400Z,40.543,15.226,326.3,3.7,mb,66,86.7,,,us,usp000euey,2014-11-07T01:30:30.005Z,"1 km SSW of Postiglione, Italy",earthquake,,,,17,reviewed,rom,us
+2006-09-26T16:29:19.100Z,40.7,15.464,4.6,3,ml,9,138.4,,,us,usp000etve,2014-11-07T01:30:16.939Z,"3 km NNW of Ricigliano, Italy",earthquake,,,,,reviewed,rom,rom
+2006-09-08T07:31:51.600Z,41.803,15.891,24.4,3,ml,13,217.3,,,us,usp000espa,2014-11-07T01:30:10.804Z,"5 km SSE of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2006-09-07T15:31:43.800Z,40.591,16.162,27,4.2,ml,122,40.2,,,us,usp000esn7,2014-11-07T01:30:10.676Z,"2 km W of Calciano, Italy",earthquake,,,,,reviewed,rom,pdg
+2006-08-27T08:01:41.400Z,40.702,15.386,15.5,2.7,ml,7,145.1,,,us,usp000ervm,2014-11-07T01:30:02.343Z,"4 km NNW of San Gregorio Magno, Italy",earthquake,,,,,reviewed,rom,rom
+2006-07-09T01:26:28.000Z,41.644,13.985,19.4,2.5,md,14,112.4,,,us,usp000en6h,2014-11-07T01:29:36.950Z,"5 km SW of Pizzone, Italy",earthquake,,,,,reviewed,rom,rom
+2006-06-08T19:46:06.400Z,41.812,15.902,28.7,2.8,ml,23,170,,,us,usp000ejz2,2014-11-07T01:29:20.507Z,"5 km SE of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2006-06-05T04:00:27.900Z,40.451,16.221,21.7,3,md,9,164.7,,,us,usp000ejqw,2014-11-07T01:29:19.440Z,"4 km SW of San Mauro Forte, Italy",earthquake,,,,,reviewed,rom,rom
+2006-06-05T00:07:50.200Z,41.818,13.875,9.8,2.7,ml,23,90.4,,,us,usp000ejqk,2014-11-07T01:29:19.401Z,"5 km NE of Opi, Italy",earthquake,,,,,reviewed,rom,rom
+2006-06-04T15:50:36.600Z,41.815,15.857,24,2.5,ml,4,236.9,,,us,usp000ejps,2014-11-07T01:29:19.293Z,"3 km S of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2006-06-03T18:44:33.600Z,41.816,15.88,25.7,2.7,ml,6,244,,,us,usp000ejmr,2014-11-07T01:29:18.876Z,"3 km SSE of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2006-05-30T23:26:47.200Z,41.805,15.832,23.3,2.6,ml,5,226.6,,,us,usp000ejbe,2014-11-07T01:29:13.162Z,"4 km SSW of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2006-05-29T02:42:35.200Z,41.778,15.872,18,2.8,md,12,225.8,,,us,usp000ej6y,2014-11-07T01:29:12.522Z,"7 km S of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2006-05-29T02:20:06.200Z,41.801,15.903,31.2,4.7,mwc,428,23.3,,,us,usp000ej6w,2016-11-10T01:23:04.205Z,"6 km SE of Carpino, Italy",earthquake,,,,,reviewed,rom,hrv
+2006-05-20T11:19:17.800Z,40.757,15.261,8.5,2.6,md,5,150.1,,,us,usp000ehjs,2014-11-07T01:29:09.119Z,"2 km NNW of Valva, Italy",earthquake,,,,,reviewed,rom,rom
+2006-05-07T09:46:21.100Z,40.653,15.771,8.3,2.6,md,7,128.3,,,us,usp000egfw,2014-11-07T01:29:04.011Z,"3 km WNW of Potenza, Italy",earthquake,,,,,reviewed,rom,rom
+2006-05-03T16:20:24.500Z,41.718,14.783,21.9,2.7,ml,11,120.3,,,us,usp000eg5p,2014-11-07T01:29:02.094Z,"0 km NNE of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2006-04-30T21:07:57.100Z,41.467,15.699,6.1,3.3,md,58,39.5,,,us,usp000efvw,2014-11-07T01:28:56.710Z,"11 km N of Carapelle, Italy",earthquake,,,,,reviewed,rom,pdg
+2006-04-24T09:59:41.700Z,40.567,15.578,10.8,2.6,ml,9,85.8,,,us,usp000efdg,2014-11-07T01:28:54.345Z,"2 km E of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2006-04-14T01:21:59.400Z,41.71,16.021,29.3,3.3,ml,63,57.8,,,us,usp000eefu,2014-11-07T01:28:50.078Z,"2 km W of Mattinata, Italy",earthquake,,,,,reviewed,rom,rom
+2006-03-25T05:22:44.600Z,41.726,13.897,10,3.1,ml,24,98.5,,,us,usp000ecvz,2014-11-07T01:28:35.005Z,"5 km SW of Civitella Alfedena, Italy",earthquake,,,,,reviewed,rom,rom
+2006-03-14T13:33:43.000Z,40.794,15.325,8.9,2.5,ml,10,126.6,,,us,usp000ec56,2014-11-07T01:28:31.627Z,"1 km S of Santomenna, Italy",earthquake,,,,,reviewed,rom,rom
+2006-03-14T03:15:03.600Z,40.796,15.322,8.9,2.7,ml,12,108.9,,,us,usp000ec41,2014-11-07T01:28:31.439Z,"1 km SSW of Santomenna, Italy",earthquake,,,,,reviewed,rom,rom
+2006-02-27T20:02:07.100Z,41.774,15.931,24.1,2.7,ml,9,219.3,,,us,usp000eb0c,2014-11-07T01:28:22.730Z,"8 km NNW of Monte Sant'Angelo, Italy",earthquake,,,,,reviewed,rom,rom
+2006-02-05T17:02:59.500Z,40.789,15.22,10.5,3.2,ml,35,110,,,us,usp000e9jc,2014-11-07T01:28:16.645Z,"0 km NNW of Calabritto, Italy",earthquake,,,,,reviewed,rom,rom
+2006-01-14T15:36:03.100Z,41.68,16.41,10,2.6,ml,6,225,,,us,usp000e87p,2014-11-07T01:28:06.303Z,"29 km SE of Vieste, Italy",earthquake,,,,,reviewed,rom,rom
+2005-12-12T17:10:40.500Z,40.693,15.529,11.5,2.6,ml,5,102.4,,,us,usp000e61g,2014-11-07T01:27:53.116Z,"3 km W of Scalo di Baragiano, Italy",earthquake,,,,,reviewed,rom,rom
+2005-11-28T21:08:41.000Z,40.575,16.058,29,2.7,ml,12,79.1,,,us,usp000e53w,2014-11-07T01:27:44.877Z,"1 km NW of Campomaggiore, Italy",earthquake,,,,,reviewed,rom,rom
+2005-11-26T14:07:15.700Z,41.103,15.354,18,2.7,ml,7,150.9,,,us,usp000e4yc,2014-11-07T01:27:43.994Z,"4 km ENE of Scampitella, Italy",earthquake,,,,,reviewed,rom,rom
+2005-11-11T08:21:37.400Z,40.194,15.719,18.8,2.7,ml,10,86.4,,,us,usp000e3ya,2014-11-07T01:27:38.220Z,"3 km SE of Casalbuono, Italy",earthquake,,,,,reviewed,rom,rom
+2005-10-03T09:00:51.400Z,41.603,14.336,19.6,2.8,ml,8,125.3,,,us,usp000e0t8,2014-11-07T01:27:16.373Z,southern Italy,earthquake,,,,,reviewed,rom,rom
+2005-09-03T12:30:43.700Z,41.532,14.525,12.5,2.5,md,4,257.9,,,us,usp000dypf,2014-11-07T01:26:59.858Z,"2 km NNE of Colle d'Anchise, Italy",earthquake,,,,,reviewed,rom,rom
+2005-08-13T21:00:05.600Z,40.207,15.18,7.8,2.6,md,6,236.3,,,us,usp000dx9c,2014-11-07T01:26:48.820Z,"1 km S of Castelnuovo Cilento, Italy",earthquake,,,,,reviewed,rom,rom
+2005-06-30T23:26:36.600Z,40.637,15.693,21,2.5,md,4,242.9,,,us,usp000du8z,2014-11-07T01:26:18.796Z,"4 km E of Picerno, Italy",earthquake,,,,,reviewed,rom,rom
+2005-06-30T22:09:14.700Z,40.731,15.685,24,2.6,md,5,262,,,us,usp000du8w,2014-11-07T01:26:18.792Z,"1 km N of Ruoti, Italy",earthquake,,,,,reviewed,rom,rom
+2005-06-28T04:35:52.000Z,40.305,15.749,25.2,2.5,md,6,107.9,,,us,usp000du2e,2014-11-07T01:26:18.101Z,"3 km WSW of Tramutola, Italy",earthquake,,,,,reviewed,rom,rom
+2005-06-20T16:17:20.000Z,40.796,15.887,15.1,2.5,ml,10,99.3,,,us,usp000dtj0,2014-11-07T01:26:15.840Z,"4 km W of Acerenza, Italy",earthquake,,,,,reviewed,rom,rom
+2005-06-20T16:06:41.600Z,40.804,15.885,13.2,2.7,ml,13,99.8,,,us,usp000dthz,2014-11-07T01:26:15.838Z,"4 km WNW of Acerenza, Italy",earthquake,,,,,reviewed,rom,rom
+2005-06-18T02:56:09.200Z,40.856,15.134,14.5,2.5,ml,20,111.4,,,us,usp000dtaq,2014-11-07T01:26:14.785Z,"4 km WSW of Lioni, Italy",earthquake,,,,,reviewed,rom,rom
+2005-06-14T23:34:09.100Z,40.621,15.492,6.4,3,md,12,86.7,,,us,usp000dt1m,2014-11-07T01:26:12.809Z,"2 km NNW of Vietri di Potenza, Italy",earthquake,,,,,reviewed,rom,rom
+2005-06-13T22:33:34.000Z,41.708,15.821,27.2,2.7,ml,23,222.7,,,us,usp000dsvz,2014-11-07T01:26:11.698Z,"7 km E of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,rom,rom
+2005-06-13T01:33:38.100Z,41.562,14.718,17.7,2.7,md,9,142.4,,,us,usp000dsu9,2014-11-07T01:26:11.456Z,"2 km WNW of Campodipietra, Italy",earthquake,,,,,reviewed,rom,rom
+2005-06-12T09:21:47.800Z,41.626,16.057,9.9,2.7,md,12,225.1,,,us,usp000dssn,2014-11-07T01:26:11.071Z,"9 km S of Mattinata, Italy",earthquake,,,,,reviewed,rom,rom
+2005-05-21T19:55:20.700Z,41.025,14.377,15,3.6,md,58,124.4,,0.99,us,usp000dra9,2014-11-07T01:25:56.851Z,"1 km SSW of Maddaloni, Italy",earthquake,,0,,,reviewed,us,pdg
+2005-04-10T01:24:15.700Z,41.011,16.074,3.5,3,md,18,105.9,,,us,usp000dmsf,2014-11-07T01:25:31.841Z,"5 km NNW of Spinazzola, Italy",earthquake,,,,,reviewed,rom,rom
+2005-04-07T01:46:16.200Z,40.648,15.497,14.6,2.7,md,5,161.3,,,us,usp000dmfa,2014-11-07T01:25:30.160Z,"1 km W of Balvano, Italy",earthquake,,,,,reviewed,rom,rom
+2005-04-06T03:31:19.200Z,40.748,14.657,10,2.6,md,7,160.4,,,us,usp000dmcv,2014-11-07T01:25:29.830Z,"1 km ENE of Nocera Inferiore, Italy",earthquake,,,,,reviewed,rom,rom
+2005-04-02T23:29:43.000Z,41.033,14.551,5.6,3,md,15,109.8,,,us,usp000dm1t,2014-11-07T01:25:28.180Z,"0 km S of Arpaia, Italy",earthquake,,,,,reviewed,rom,rom
+2005-03-30T07:14:37.100Z,41.756,15.787,16,2.6,md,10,149.7,,,us,usp000dkmq,2014-11-07T01:25:21.706Z,"7 km NE of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,rom,rom
+2005-03-28T01:05:00.100Z,41.697,14.863,7.9,2.5,md,11,154.9,,,us,usp000dk6y,2014-11-07T01:25:19.928Z,"4 km SE of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2005-03-23T20:51:03.900Z,40.265,14.685,10,2.6,md,5,273.6,,,us,usp000djwy,2014-11-07T01:25:18.229Z,"21 km W of San Marco, Italy",earthquake,,,,,reviewed,rom,rom
+2005-03-23T05:28:20.800Z,40.498,15.564,4.2,2.6,md,5,166.5,,,us,usp000djvb,2014-11-07T01:25:18.026Z,"4 km N of Atena Lucana, Italy",earthquake,,,,,reviewed,rom,rom
+2005-03-21T00:41:47.700Z,41.572,14.354,19.6,2.7,md,7,114.5,,,us,usp000djns,2014-11-07T01:25:17.129Z,"1 km NNE of Castelpetroso, Italy",earthquake,,,,,reviewed,rom,rom
+2005-03-17T08:07:09.800Z,41.298,16.017,10,2.7,md,7,145.2,,,us,usp000djcr,2014-11-07T01:25:15.283Z,"4 km W of San Ferdinando di Puglia, Italy",earthquake,,,,,reviewed,rom,rom
+2005-03-03T02:50:39.900Z,41.781,14.825,9.7,3.1,md,17,144.3,,,us,usp000dhda,2014-11-07T01:25:10.048Z,"3 km SE of Guardialfiera, Italy",earthquake,,,,,reviewed,rom,rom
+2005-03-01T05:41:37.400Z,41.666,14.867,9.9,3.4,md,59,82.1,,,us,usp000dh8t,2014-11-07T01:25:07.892Z,"5 km N of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2005-02-27T18:03:38.000Z,41.836,15.71,14.8,2.7,md,12,179.4,,,us,usp000dh3s,2014-11-07T01:25:04.883Z,"5 km W of Cagnano Varano, Italy",earthquake,,,,,reviewed,rom,rom
+2005-02-27T03:16:33.900Z,41.658,14.837,12,2.9,md,18,133.1,,,us,usp000dh24,2014-11-07T01:25:04.324Z,"4 km SSE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2005-02-17T17:09:30.400Z,41.757,15.195,5,2.5,md,7,186.9,,,us,usp000dgcf,2014-11-07T01:25:00.787Z,"5 km WNW of San Paolo di Civitate, Italy",earthquake,,,,,reviewed,rom,rom
+2005-02-13T11:15:34.200Z,41.668,14.82,10.1,3.1,md,24,82.3,,,us,usp000dg1p,2014-11-07T01:24:59.239Z,"2 km SSE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2005-02-13T11:09:26.800Z,41.669,14.817,13.3,2.7,md,13,133.8,,,us,usp000dg1n,2014-11-07T01:24:59.238Z,"2 km SSE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2005-02-11T23:42:28.600Z,41.47,14.634,6.3,2.6,md,10,92,,,us,usp000dfyf,2014-11-07T01:24:58.814Z,"1 km NNW of San Giuliano del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2005-02-08T11:36:02.500Z,41.294,15.99,4.9,2.6,md,8,141.2,,,us,usp000dfqc,2014-11-07T01:24:57.316Z,"6 km W of San Ferdinando di Puglia, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-31T18:59:05.500Z,41.752,13.891,12.3,2.7,md,11,90.7,,,us,usp000dcah,2014-11-07T01:24:28.110Z,"4 km WSW of Civitella Alfedena, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-30T01:01:13.800Z,41.802,14.683,10,2.6,md,5,170.3,,,us,usp000dc5r,2014-11-07T01:24:27.254Z,"2 km NNW of Civitacampomarano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-12T07:43:31.700Z,41.736,15.853,21.6,3.1,md,20,160.1,,,us,usp000daha,2014-11-07T01:24:16.004Z,"9 km WNW of Monte Sant'Angelo, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-11T21:26:05.200Z,41.676,14.9,11.6,3,md,18,129.3,,,us,usp000dage,2014-11-07T01:24:15.917Z,"4 km SW of Bonefro, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-10T23:30:31.400Z,41.555,14.791,4.3,3,md,22,55.8,,,us,usp000daen,2014-11-07T01:24:15.702Z,"3 km SE of Toro, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-06T07:13:59.500Z,40.723,15.427,3.7,3,md,16,74.2,,,us,usp000da60,2014-11-07T01:24:14.376Z,"6 km WSW of Muro Lucano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-04T08:22:48.900Z,41.687,14.765,10,2.6,md,12,151.2,,,us,usp000d9yn,2014-11-07T01:24:13.172Z,"2 km SSW of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2004-12-01T05:41:45.800Z,41.562,15.657,12.4,2.5,md,5,220.2,,,us,usp000d9q4,2014-11-07T01:24:10.204Z,"14 km SSE of Rignano Garganico, Italy",earthquake,,,,,reviewed,rom,rom
+2004-11-26T13:58:31.100Z,41.05,15.458,10.5,2.7,md,10,84.2,,,us,usp000d9a6,2014-11-07T01:24:05.800Z,southern Italy,earthquake,,,,,reviewed,rom,rom
+2004-11-26T01:49:07.300Z,41.04,15.514,4.3,3,md,16,108.5,,,us,usp000d970,2014-11-07T01:24:05.188Z,"4 km NNW of Monteverde, Italy",earthquake,,,,,reviewed,rom,rom
+2004-11-14T09:25:59.400Z,41.817,15.951,11.1,3,ml,30,101,,,us,usp000d8eb,2014-11-07T01:24:00.385Z,"8 km ESE of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2004-11-14T04:08:31.400Z,40.425,15.465,11.7,2.7,ml,7,151.7,,,us,usp000d8dn,2014-11-07T01:24:00.328Z,"1 km S of San Rufo, Italy",earthquake,,,,,reviewed,rom,rom
+2004-11-07T06:34:23.900Z,41.758,15.805,16.8,3.7,ml,47,57.7,,,us,usp000d7vc,2014-11-07T01:23:56.907Z,"8 km SSE of Cagnano Varano, Italy",earthquake,,,,,reviewed,rom,ldg
+2004-11-07T06:33:01.500Z,41.76,15.857,21.8,3.4,md,73,36.3,,,us,usp000d7vb,2014-11-07T01:23:56.888Z,"9 km S of Carpino, Italy",earthquake,,,,,reviewed,rom,pdg
+2004-11-02T18:06:41.100Z,40.85,15.112,12.4,2.5,ml,10,124.7,,,us,usp000d7j6,2014-11-07T01:23:54.885Z,"3 km ENE of Bagnoli Irpino, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-31T11:24:01.900Z,40.762,15.33,12.6,3,md,12,108.2,,,us,usp000d7de,2014-11-07T01:23:50.690Z,"3 km SE of Laviano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-26T05:52:13.000Z,40.431,15.473,12.9,2.6,md,5,147.6,,,us,usp000d73p,2014-11-07T01:23:49.281Z,"0 km ESE of San Rufo, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-25T21:58:13.600Z,40.644,15.816,7.5,2.9,md,10,102.2,,,us,usp000d72s,2014-11-07T01:23:49.177Z,"0 km ENE of Potenza, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-23T21:58:04.500Z,40.657,15.712,10,2.6,md,4,252.4,,,us,usp000d6xq,2014-11-07T01:23:48.375Z,"6 km ENE of Picerno, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-23T05:04:46.800Z,40.055,16.311,13.6,2.9,md,7,101.3,,,us,usp000d6vb,2014-11-07T01:23:47.788Z,"2 km NNE of San Costantino Albanese, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-14T16:43:20.100Z,40.501,14.704,5,3.3,md,20,198,,,us,usp000d6cn,2014-11-07T01:23:45.181Z,"16 km S of Cetara, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-13T23:39:13.600Z,41.57,13.99,6.4,2.8,md,9,237.1,,,us,usp000d6bk,2014-11-07T01:23:45.080Z,"4 km NE of Acquafondata, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-10T05:38:17.900Z,40.391,15.835,15.6,2.6,md,5,160.4,,,us,usp000d646,2014-11-07T01:23:44.126Z,"1 km NNE of Marsicovetere, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-08T18:56:05.300Z,40.395,15.866,10.3,2.8,md,6,164.8,,,us,usp000d60z,2014-11-07T01:23:43.682Z,"4 km ENE of Marsicovetere, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-06T10:34:05.400Z,41.663,14.161,7.8,2.6,md,6,130.8,,,us,usp000d5vt,2014-11-07T01:23:42.586Z,"1 km SE of Acquaviva d'Isernia, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-06T02:56:25.500Z,41.654,14.842,5,2.9,md,21,92.4,,,us,usp000d5v4,2014-11-07T01:23:42.475Z,"4 km NW of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-06T01:04:55.700Z,40.714,15.907,10,2.5,md,4,287.5,,,us,usp000d5v2,2014-11-07T01:23:42.465Z,"2 km SW of Cancellara, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-03T20:37:28.400Z,41.672,14.163,7.4,2.5,md,4,127.8,,,us,usp000d5q7,2014-11-07T01:23:41.542Z,"1 km E of Acquaviva d'Isernia, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-02T04:23:51.000Z,41.682,14.206,10,2.9,md,6,95.3,,,us,usp000d5jr,2014-11-07T01:23:40.263Z,"2 km SW of Roccasicura, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-02T02:20:19.300Z,41.674,14.19,7,2.6,md,5,93.3,,,us,usp000d5jh,2014-11-07T01:23:40.161Z,"2 km SSE of Forlì del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-02T02:06:28.700Z,41.659,14.161,7.1,2.8,md,5,132,,,us,usp000d5jg,2014-11-07T01:23:40.158Z,"1 km SE of Acquaviva d'Isernia, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-01T10:07:37.900Z,41.65,14.151,7.9,2.6,md,9,136.3,,,us,usp000d5gk,2014-11-07T01:23:39.307Z,"2 km S of Acquaviva d'Isernia, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-01T10:02:40.700Z,41.69,14.168,7.5,3.3,md,21,96.2,,,us,usp000d5gj,2014-11-07T01:23:39.259Z,"1 km SW of Forlì del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2004-10-01T01:15:05.900Z,41.58,13.955,10,2.6,md,7,119,,,us,usp000d5ey,2014-11-07T01:23:37.504Z,"4 km N of Acquafondata, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-28T18:48:43.000Z,40.695,15.602,9.9,2.9,md,8,142.3,,,us,usp000d58p,2014-11-07T01:23:34.470Z,"1 km NNE of Baragiano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-28T07:29:49.600Z,40.675,15.654,8.4,3.3,md,12,122.6,,,us,usp000d574,2014-11-07T01:23:34.211Z,"4 km NNE of Picerno, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-27T23:49:09.400Z,40.743,15.771,10,2.5,md,5,273.5,,,us,usp000d56e,2014-11-07T01:23:34.161Z,"4 km ENE of Avigliano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-27T23:32:21.600Z,40.709,15.73,9.2,2.6,md,5,267.1,,,us,usp000d56b,2014-11-07T01:23:34.155Z,"2 km SSE of Avigliano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-27T23:20:47.500Z,40.694,15.705,6.7,3.4,md,18,127.3,,,us,usp000d569,2014-11-07T01:23:34.151Z,"3 km SE of Ruoti, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-27T23:05:24.700Z,40.663,15.663,8.7,3.2,md,13,122.9,,,us,usp000d566,2014-11-07T01:23:34.124Z,"3 km NE of Picerno, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-26T02:45:57.600Z,40.527,16.285,5,2.8,md,8,189.3,,,us,usp000d52f,2014-11-07T01:23:33.607Z,"2 km W of Salandra, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-22T00:34:27.000Z,41.713,14.108,5,2.6,md,8,113,,,us,usp000d4u1,2014-11-07T01:23:32.358Z,"2 km W of Rionero Sannitico, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-21T03:58:27.800Z,41.58,14.787,5,3.1,md,22,72,,,us,usp000d4rw,2014-11-07T01:23:32.042Z,"2 km ENE of Toro, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-18T15:07:51.400Z,41.41,14.639,13.2,2.7,md,11,111.4,,,us,usp000d4jt,2014-11-07T01:23:30.673Z,"1 km E of Sepino, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-14T07:04:34.600Z,40.518,15.636,15.6,2.6,md,6,171.9,,,us,usp000d48a,2014-11-07T01:23:29.059Z,"2 km S of Satriano di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-08T00:22:06.800Z,40.833,15.258,2.4,2.7,md,10,106.8,,,us,usp000d3vw,2014-11-07T01:23:27.103Z,"2 km S of Teora, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-07T12:10:38.600Z,40.756,15.522,8.2,2.6,md,7,164,,,us,usp000d3ur,2014-11-07T01:23:26.947Z,"1 km WSW of Bella, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-03T07:45:42.600Z,40.691,15.596,21.8,2.5,md,4,225.9,,,us,usp000d3em,2014-11-07T01:23:23.824Z,"1 km N of Baragiano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-03T02:02:17.500Z,40.673,15.629,13,3,md,11,90.2,,,us,usp000d3e9,2014-11-07T01:23:23.562Z,"3 km ESE of Baragiano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-03T01:22:29.300Z,40.672,15.643,8.6,2.8,md,11,67,,,us,usp000d3e5,2014-11-07T01:23:23.542Z,"3 km N of Picerno, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-03T00:04:12.800Z,40.701,15.684,5,4.1,mb,175,36.4,,,us,usp000d3e3,2014-11-07T01:23:23.479Z,"1 km S of Ruoti, Italy",earthquake,,,,1,reviewed,rom,us
+2004-09-02T23:56:14.800Z,41.694,14.777,10.1,2.8,md,13,132.5,,,us,usp000d3e1,2014-11-07T01:23:23.470Z,"1 km S of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2004-09-02T23:34:58.600Z,41.681,14.774,6.3,3.1,md,19,109.1,,,us,usp000d3e0,2014-11-07T01:23:23.463Z,"3 km WSW of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2004-08-29T06:21:59.600Z,41.633,13.996,5,2.5,md,6,162.5,,,us,usp000d33g,2014-11-07T01:23:17.276Z,"5 km SW of Pizzone, Italy",earthquake,,,,,reviewed,rom,rom
+2004-08-29T04:57:22.900Z,41.687,14.015,5,2.5,md,10,105.3,,,us,usp000d338,2014-11-07T01:23:17.256Z,"2 km NW of Pizzone, Italy",earthquake,,,,,reviewed,rom,rom
+2004-08-27T06:28:36.700Z,40.108,15.945,10,2.5,md,5,179.4,,,us,usp000d2y4,2014-11-07T01:23:16.176Z,"5 km WNW of Latronico, Italy",earthquake,,,,,reviewed,rom,rom
+2004-08-24T20:03:16.900Z,40.624,15.53,8.2,2.5,md,5,174.7,,,us,usp000d2ta,2014-11-07T01:23:15.636Z,"3 km SSE of Balvano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-08-21T02:17:50.400Z,40.462,15.994,8.1,3,md,10,89.8,,,us,usp000d2jy,2014-11-07T01:23:14.858Z,"1 km E of Laurenzana, Italy",earthquake,,,,,reviewed,rom,rom
+2004-08-18T02:59:04.800Z,40.181,15.684,17.7,2.7,md,6,145.5,,,us,usp000d2bx,2014-11-07T01:23:13.689Z,"3 km S of Casalbuono, Italy",earthquake,,,,,reviewed,rom,rom
+2004-08-17T05:09:45.900Z,41.837,13.854,23.8,2.6,md,6,96.3,,,us,usp000d2ag,2014-11-07T01:23:13.554Z,"6 km NE of Pescasseroli, Italy",earthquake,,,,,reviewed,rom,rom
+2004-08-15T17:18:20.900Z,40.604,15.735,8.1,3.3,md,15,75,,,us,usp000d27e,2014-11-07T01:23:13.028Z,"5 km NW of Pignola, Italy",earthquake,,,,,reviewed,rom,rom
+2004-08-15T02:40:01.830Z,40.104,15.614,284.9,2.9,md,37,50,,1,us,usp000d265,2014-11-07T01:23:12.881Z,"2 km WSW of Torraca, Italy",earthquake,,4.7,,,reviewed,us,rom
+2004-08-13T16:43:36.800Z,41.595,14.13,3.1,2.5,md,5,200,,,us,usp000d22w,2014-11-07T01:23:12.347Z,"1 km SSW of Fornelli, Italy",earthquake,,,,,reviewed,rom,rom
+2004-08-09T21:15:36.400Z,41.71,14.858,7.3,2.8,md,11,134,,,us,usp000d1uh,2014-11-07T01:23:10.558Z,"3 km ESE of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2004-07-31T22:51:17.200Z,40.476,16.227,5,3.4,md,35,62.5,,,us,usp000d17j,2014-11-07T01:23:03.020Z,"2 km WSW of San Mauro Forte, Italy",earthquake,,,,,reviewed,rom,rom
+2004-07-30T06:42:32.200Z,40.445,16.239,7.7,3,md,9,97.9,,,us,usp000d145,2014-11-07T01:23:01.984Z,"4 km SSW of San Mauro Forte, Italy",earthquake,,,,,reviewed,rom,rom
+2004-07-27T04:00:15.000Z,40.485,16.206,5,2.9,md,10,83.6,,,us,usp000d0y5,2014-11-07T01:22:59.399Z,"3 km W of San Mauro Forte, Italy",earthquake,,,,,reviewed,rom,rom
+2004-07-22T17:49:33.200Z,40.631,15.672,29.7,2.5,md,4,235.1,,,us,usp000d0pv,2014-11-07T01:22:57.037Z,"2 km ESE of Picerno, Italy",earthquake,,,,,reviewed,rom,rom
+2004-07-17T07:47:50.400Z,40.736,15.489,6.9,2.7,md,8,143,,,us,usp000d0at,2014-11-07T01:22:55.088Z,southern Italy,earthquake,,,,,reviewed,rom,rom
+2004-07-16T02:59:04.200Z,40.579,15.426,24.1,2.6,md,5,172.1,,,us,usp000d08m,2014-11-07T01:22:54.559Z,"1 km N of Auletta, Italy",earthquake,,,,,reviewed,rom,rom
+2004-07-14T13:44:03.100Z,41.671,14.872,7.1,2.6,md,16,102.5,,,us,usp000d05h,2014-11-07T01:22:53.885Z,"5 km N of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2004-07-13T10:14:27.300Z,40.747,15.317,9.8,2.8,md,16,94.6,,,us,usp000d02z,2014-11-07T01:22:53.558Z,"3 km NE of Colliano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-07-09T14:48:06.700Z,40.753,15.489,8.1,2.7,md,9,158.6,,,us,usp000czuw,2014-11-07T01:22:52.440Z,"0 km SE of Muro Lucano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-07-07T13:42:13.200Z,40.739,15.485,6.3,2.5,md,5,152.3,,,us,usp000czqm,2014-11-07T01:22:51.740Z,"1 km S of Muro Lucano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-07-06T05:10:45.800Z,40.241,15.662,19.8,2.7,md,5,114.7,,,us,usp000czn3,2014-11-07T01:22:51.393Z,"3 km NW of Casalbuono, Italy",earthquake,,,,,reviewed,rom,rom
+2004-06-30T22:28:11.600Z,41.655,14.938,9.1,2.5,md,7,106.9,,,us,usp000cza1,2014-11-07T01:22:44.561Z,"2 km WSW of Colletorto, Italy",earthquake,,,,,reviewed,rom,rom
+2004-06-28T11:10:11.700Z,41.677,14.878,9.3,3,md,12,142.5,,,us,usp000cz2c,2014-11-07T01:22:43.340Z,"5 km WSW of Bonefro, Italy",earthquake,,,,,reviewed,rom,rom
+2004-06-28T10:51:31.900Z,41.696,14.89,9.2,3.6,ml,73,33.3,,,us,usp000cz2a,2014-11-07T01:22:43.331Z,"3 km WSW of Bonefro, Italy",earthquake,,,,,reviewed,rom,ldg
+2004-06-27T18:07:30.500Z,41.683,14.869,5.8,2.7,md,13,126,,,us,usp000cz0b,2014-11-07T01:22:42.861Z,"5 km E of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2004-06-26T11:06:17.900Z,41.149,15.148,10,3,md,14,62.3,,,us,usp000cyuz,2014-11-07T01:22:41.685Z,"3 km NNW of Villanova del Battista, Italy",earthquake,,,,,reviewed,rom,rom
+2004-06-25T10:09:30.400Z,41.487,14.169,10,2.5,md,5,187.3,,,us,usp000cyrj,2014-11-07T01:22:41.290Z,"2 km NE of Capriati A Volturno, Italy",earthquake,,,,,reviewed,rom,rom
+2004-06-24T20:07:07.200Z,41.568,13.795,9.7,2.8,md,8,190.1,,,us,usp000cypn,2014-11-07T01:22:41.091Z,"2 km WSW of Belmonte Castello, Italy",earthquake,,,,,reviewed,rom,rom
+2004-06-24T16:59:40.600Z,41.584,13.801,10.7,2.7,md,11,139.2,,,us,usp000cypc,2014-11-07T01:22:41.075Z,"1 km WNW of Belmonte Castello, Italy",earthquake,,,,,reviewed,rom,rom
+2004-06-21T21:01:13.600Z,40.782,15.417,8.3,2.7,md,6,159.3,,,us,usp000cyem,2014-11-07T01:22:40.111Z,"1 km WSW of Castelgrande, Italy",earthquake,,,,,reviewed,rom,rom
+2004-06-11T00:31:11.000Z,41.569,14.473,9.7,2.6,md,7,175.5,,,us,usp000cxn8,2014-11-07T01:22:36.202Z,"0 km SSE of Sant'Elena Sannita, Italy",earthquake,,,,,reviewed,rom,rom
+2004-06-09T01:02:19.000Z,40.238,15.918,4.9,3.2,md,18,55.4,,,us,usp000cxfc,2014-11-07T01:22:35.313Z,"2 km ESE of Sarconi, Italy",earthquake,,,,,reviewed,rom,rom
+2004-05-28T03:23:00.500Z,41.568,14.729,10,2.5,md,4,208.3,,,us,usp000cwea,2014-11-07T01:22:25.407Z,"1 km NW of Campodipietra, Italy",earthquake,,,,,reviewed,rom,rom
+2004-05-27T19:00:04.600Z,41.684,14.822,13.3,3.1,md,22,108,,,us,usp000cwda,2014-11-07T01:22:25.294Z,"1 km ESE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2004-05-22T23:33:45.600Z,41.8,14.811,7.8,2.5,md,12,185.4,,,us,usp000cvxv,2014-11-07T01:22:23.040Z,"1 km ESE of Guardialfiera, Italy",earthquake,,,,,reviewed,rom,rom
+2004-05-20T19:31:27.500Z,40.092,15.995,6.5,2.9,md,7,124.6,,,us,usp000cvq2,2014-11-07T01:22:21.685Z,"1 km WNW of Latronico, Italy",earthquake,,,,,reviewed,rom,rom
+2004-05-20T06:05:54.100Z,40.271,15.686,18.2,2.5,md,5,126.4,,,us,usp000cvn0,2014-11-07T01:22:21.414Z,"1 km WSW of Montesano sulla Marcellana, Italy",earthquake,,,,,reviewed,rom,rom
+2004-05-11T16:59:51.100Z,41.501,14.571,10,2.6,md,10,138.6,,,us,usp000cus1,2014-11-07T01:22:17.336Z,"1 km WNW of Vinchiaturo, Italy",earthquake,,,,,reviewed,rom,rom
+2004-05-10T02:07:55.300Z,41.707,14.804,12.4,2.5,md,14,135.1,,,us,usp000cukx,2014-11-07T01:22:16.469Z,"1 km NNW of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2004-04-25T02:17:01.500Z,40.222,15.89,8.9,2.5,md,7,139.8,,,us,usp000ctbm,2014-11-07T01:22:05.299Z,"2 km S of Sarconi, Italy",earthquake,,,,,reviewed,rom,rom
+2004-04-23T18:19:04.000Z,41.504,13.896,5.8,3.1,md,26,125.8,,,us,usp000ct7q,2014-11-07T01:22:04.734Z,"2 km NNW of Cervaro, Italy",earthquake,,,,,reviewed,rom,rom
+2004-04-17T03:42:34.100Z,40.202,15.896,4.7,2.7,md,11,108.5,,,us,usp000csqs,2014-11-07T01:22:00.817Z,"5 km S of Sarconi, Italy",earthquake,,,,,reviewed,rom,rom
+2004-04-12T07:11:56.400Z,41.724,14.797,9.8,2.8,md,18,134.6,,,us,usp000csan,2014-11-07T01:21:58.068Z,"1 km NE of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2004-04-10T20:44:27.800Z,41.727,14.808,11.5,2.5,md,10,163.9,,,us,usp000cs6b,2014-11-07T01:21:57.529Z,"1 km NW of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2004-04-10T18:21:34.000Z,41.727,14.817,11.7,2.9,md,14,131.9,,,us,usp000cs66,2014-11-07T01:21:57.516Z,"1 km NNW of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2004-04-09T10:08:14.400Z,41.714,14.813,9.9,2.6,md,12,159.1,,,us,usp000cs2h,2014-11-07T01:21:56.209Z,"0 km WSW of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2004-04-08T04:02:45.600Z,40.986,16.272,10,2.5,md,10,116.7,,,us,usp000cryy,2014-11-07T01:21:55.828Z,"8 km N of Poggiorsini, Italy",earthquake,,,,,reviewed,rom,rom
+2004-04-05T14:18:12.700Z,40.553,16.364,10,2.5,md,7,135.5,,,us,usp000crs5,2014-11-07T01:21:54.911Z,"4 km NE of Salandra, Italy",earthquake,,,,,reviewed,rom,rom
+2004-03-28T04:28:18.100Z,40.706,15.42,16.3,2.5,md,5,108.8,,,us,usp000cr36,2014-11-07T01:21:48.229Z,"5 km NNE of San Gregorio Magno, Italy",earthquake,,,,,reviewed,rom,rom
+2004-03-15T09:32:34.100Z,41.308,14.662,9.2,2.9,md,15,119.8,,,us,usp000cq0g,2014-11-07T01:21:42.446Z,"2 km NW of Pontelandolfo, Italy",earthquake,,,,,reviewed,rom,rom
+2004-03-13T06:25:42.400Z,40.246,15.912,4.1,2.6,md,6,145.9,,,us,usp000cpty,2014-11-07T01:21:41.647Z,"2 km E of Sarconi, Italy",earthquake,,,,,reviewed,rom,rom
+2004-03-10T18:16:20.500Z,40.694,15.338,6.9,2.5,md,5,116.4,,,us,usp000cpkt,2014-11-07T01:21:40.650Z,"5 km SE of Colliano, Italy",earthquake,,,,,reviewed,rom,rom
+2004-03-09T08:57:48.500Z,41.172,15.049,9.9,2.6,md,14,91.5,,,us,usp000cpfx,2014-11-07T01:21:40.117Z,"2 km SSE of Montecalvo Irpino, Italy",earthquake,,,,,reviewed,rom,rom
+2004-03-06T13:22:03.600Z,41.678,15.08,10.1,2.7,md,17,94.3,,,us,usp000cp89,2014-11-07T01:21:39.054Z,"6 km NNW of Casalnuovo Monterotaro, Italy",earthquake,,,,,reviewed,rom,rom
+2004-03-06T13:16:11.400Z,41.662,15.09,9,2.9,md,17,88.5,,,us,usp000cp88,2014-11-07T01:21:39.051Z,"4 km NNW of Casalnuovo Monterotaro, Italy",earthquake,,,,,reviewed,rom,rom
+2004-03-03T01:08:27.700Z,41.724,13.798,12.8,2.5,md,9,124.3,,,us,usp000cnyh,2014-11-07T01:21:37.364Z,"2 km NNW of San Donato Val di Comino, Italy",earthquake,,,,,reviewed,rom,rom
+2004-02-24T05:21:26.500Z,40.719,15.436,10.3,4.4,mb,143,35.6,,,us,usp000cmz8,2014-11-07T01:21:26.072Z,"5 km SW of Muro Lucano, Italy",earthquake,,,,2,reviewed,rom,us
+2004-02-23T22:11:43.100Z,40.682,15.385,9.9,2.6,md,6,100.3,,,us,usp000cmww,2014-11-07T01:21:25.773Z,"2 km NNW of San Gregorio Magno, Italy",earthquake,,,,,reviewed,rom,rom
+2004-02-23T19:48:45.200Z,40.697,15.43,9.3,3.6,ml,63,65.3,,,us,usp000cmwh,2014-11-07T01:21:25.656Z,"4 km NNE of San Gregorio Magno, Italy",earthquake,,,,,reviewed,rom,rom
+2004-02-10T20:12:51.100Z,40.137,15.966,16.5,2.5,md,6,169.2,,,us,usp000ckx5,2014-11-07T01:21:20.093Z,"3 km SW of Castelsaraceno, Italy",earthquake,,,,,reviewed,rom,rom
+2004-02-10T09:53:31.100Z,41.665,14.817,8.5,2.5,md,8,124.2,,,us,usp000ckw6,2014-11-07T01:21:20.000Z,"2 km SSE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2004-02-05T09:57:52.300Z,41.695,14.781,7,3,md,15,107.4,,,us,usp000ckf1,2014-11-07T01:21:18.131Z,"1 km S of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2004-02-05T01:50:45.300Z,41.569,14.91,10,2.5,md,9,109.5,,,us,usp000cked,2014-11-07T01:21:18.043Z,"2 km S of Macchia Valfortore, Italy",earthquake,,,,,reviewed,rom,rom
+2004-02-04T22:55:44.300Z,41.588,14.893,10,2.5,md,9,115.5,,,us,usp000cke2,2014-11-07T01:21:18.010Z,"1 km WSW of Macchia Valfortore, Italy",earthquake,,,,,reviewed,rom,rom
+2004-02-04T22:37:58.000Z,41.58,14.91,10,3,md,14,103.3,,,us,usp000cke0,2014-11-07T01:21:18.005Z,"1 km S of Macchia Valfortore, Italy",earthquake,,,,,reviewed,rom,rom
+2004-02-04T21:54:10.600Z,41.586,14.916,10,2.5,md,9,113.1,,,us,usp000ckdx,2014-11-07T01:21:17.992Z,"1 km SSE of Macchia Valfortore, Italy",earthquake,,,,,reviewed,rom,rom
+2004-02-02T12:07:58.800Z,41.654,14.876,10,2.8,md,11,102.1,,,us,usp000ck89,2014-11-07T01:21:16.023Z,"3 km N of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2004-01-25T22:08:54.200Z,41.605,14.872,10,2.7,md,10,107.6,,,us,usp000cjp7,2014-11-07T01:21:08.009Z,"1 km S of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2004-01-23T20:01:00.100Z,41.599,14.364,15,2.9,md,12,90.3,,,us,usp000cjhc,2014-11-07T01:21:07.129Z,"3 km ENE of Carpinone, Italy",earthquake,,,,,reviewed,rom,rom
+2004-01-11T16:15:35.000Z,41.678,14.809,5,3,md,21,70.2,,,us,usp000chp9,2014-11-07T01:21:02.594Z,"1 km S of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2004-01-06T20:31:28.800Z,41.709,14.836,10,2.5,md,9,156.2,,,us,usp000chab,2014-11-07T01:20:59.797Z,"1 km SE of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-12-30T08:45:10.100Z,41.665,14.84,10,2.5,md,8,141.3,,,us,usp000cght,2014-11-07T01:20:51.528Z,"3 km SE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-12-30T06:20:58.300Z,41.647,14.837,10,3.1,md,18,63.3,,,us,usp000cghn,2014-11-07T01:20:51.495Z,"4 km NW of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2003-12-30T06:12:26.300Z,41.674,14.818,9.2,2.9,md,17,65.1,,,us,usp000cghk,2014-11-07T01:20:51.492Z,"1 km SSE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-12-30T06:02:23.200Z,41.667,14.841,10,2.5,md,8,141.9,,,us,usp000cghg,2014-11-07T01:20:51.482Z,"3 km SE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-12-30T05:47:26.800Z,41.662,14.813,10,2.5,md,7,141.9,,,us,usp000cghe,2014-11-07T01:20:51.479Z,"3 km S of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-12-30T05:38:15.900Z,41.704,14.786,10,2.6,md,6,156.9,,,us,usp000cghc,2014-11-07T01:20:51.476Z,"0 km SSE of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2003-12-30T05:31:38.300Z,41.64,14.849,5,4.4,ml,160,32.3,,,us,usp000cghb,2014-11-07T01:20:51.462Z,"3 km NW of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,pdg
+2003-12-28T18:32:45.900Z,41.641,14.826,5,3.1,md,20,92.5,,,us,usp000cgd8,2014-11-07T01:20:50.939Z,"3 km NNE of Monacilioni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-12-28T13:40:41.800Z,41.67,14.804,4.3,3.1,md,24,68.1,,,us,usp000cgcn,2014-11-07T01:20:50.727Z,"2 km S of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-12-16T01:11:15.600Z,40.335,15.616,312.7,4,mb,147,41.8,,,us,usp000cfby,2014-11-07T01:20:46.091Z,"3 km W of Padula, Italy",earthquake,,,,18,reviewed,rom,us
+2003-12-06T02:02:35.400Z,41.392,13.859,5,2.5,md,9,161.8,,,us,usp000cemp,2014-11-07T01:20:41.891Z,"0 km WSW of Sant'Ambrogio sul Garigliano, Italy",earthquake,,,,,reviewed,rom,rom
+2003-12-04T01:43:33.900Z,41.678,14.805,10,2.6,md,8,147.4,,,us,usp000ceez,2014-11-07T01:20:40.741Z,"1 km SSW of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-29T22:57:13.700Z,41.722,14.819,8.4,2.9,md,15,71.2,,,us,usp000ce5n,2014-11-07T01:20:34.547Z,"0 km NW of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-28T18:08:59.700Z,41.754,14.273,8,2.5,md,6,141,,,us,usp000ce30,2014-11-07T01:20:34.284Z,"2 km SSE of Vastogirardi, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-27T13:18:18.300Z,40.06,16.057,5,2.7,md,6,192.3,,,us,usp000ce0n,2014-11-07T01:20:34.110Z,southern Italy,earthquake,,,,,reviewed,rom,rom
+2003-11-24T03:15:29.800Z,41.704,14.819,10.2,2.5,md,7,133.9,,,us,usp000cdsp,2014-11-07T01:20:33.013Z,"1 km SSW of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-24T02:29:11.900Z,41.708,14.803,15.2,2.7,md,9,135.4,,,us,usp000cdsn,2014-11-07T01:20:33.012Z,"1 km E of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-23T11:55:20.000Z,41.782,14.799,8.6,2.8,md,11,155.8,,,us,usp000cdrb,2014-11-07T01:20:32.863Z,"2 km SSE of Guardialfiera, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-23T02:07:48.700Z,41.734,14.835,8.8,2.6,md,11,141.6,,,us,usp000cdqf,2014-11-07T01:20:32.776Z,"1 km WSW of Casacalenda, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-21T14:40:52.100Z,41.686,14.818,10,2.9,md,12,137,,,us,usp000cdk6,2014-11-07T01:20:32.251Z,"0 km ESE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-21T14:28:56.600Z,41.688,14.81,4,3.4,md,20,68.5,,,us,usp000cdk5,2014-11-07T01:20:32.249Z,"0 km SSE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-20T07:20:49.800Z,40.647,15.414,12.9,2.7,md,4,199,,,us,usp000cdfr,2014-11-07T01:20:31.701Z,"1 km SE of San Gregorio Magno, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-18T01:26:50.500Z,40.412,15.68,5,2.8,md,5,143.2,,,us,usp000cd7z,2014-11-07T01:20:30.779Z,"4 km WSW of Marsico Nuovo, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-16T08:32:18.100Z,41.591,15.382,5,2.6,md,7,113,,,us,usp000ccyz,2014-11-07T01:20:29.397Z,"10 km NNE of Lucera, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-16T01:01:18.700Z,41.608,13.992,3.2,2.8,md,11,161.1,,,us,usp000ccy9,2014-11-07T01:20:29.299Z,"5 km E of San Biagio Saracinisco, Italy",earthquake,,,,,reviewed,rom,rom
+2003-11-14T00:22:00.990Z,40.388,14.331,365.8,4.6,mb,269,44.1,,1.04,us,usp000cctv,2014-11-07T01:20:28.451Z,"19 km SSE of Capri, Italy",earthquake,,1.8,,64,reviewed,us,us
+2003-11-05T14:23:36.700Z,41.697,14.938,9,2.6,md,9,124.6,,,us,usp000cc4r,2014-11-07T01:20:24.952Z,"0 km SSE of Bonefro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-10-13T23:28:52.000Z,40.803,15.254,10,2.6,md,5,127.5,,,us,usp000cab8,2014-11-07T01:20:11.779Z,"2 km ESE of Caposele, Italy",earthquake,,,,,reviewed,rom,rom
+2003-10-13T11:21:27.500Z,40.662,15.483,15.2,3.1,md,6,152.8,,,us,usp000caa4,2014-11-07T01:20:11.656Z,"0 km SSE of Ricigliano, Italy",earthquake,,,,,reviewed,rom,rom
+2003-10-13T11:08:09.600Z,40.709,15.687,3.5,3.3,md,17,92.5,,,us,usp000caa1,2014-11-07T01:20:11.648Z,"0 km SSE of Ruoti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-09-23T13:31:52.200Z,41.655,14.89,10,2.8,md,10,94.9,,,us,usp000c8dn,2014-11-07T01:19:54.746Z,"4 km NNE of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2003-09-23T11:04:15.000Z,41.706,14.849,9.6,2.5,md,9,188.6,,,us,usp000c8d6,2014-11-07T01:19:54.710Z,"2 km ESE of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-09-22T23:00:51.000Z,41.687,14.871,9.3,2.7,md,11,134,,,us,usp000c8bx,2014-11-07T01:19:54.593Z,"5 km E of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-09-07T11:46:57.300Z,40.466,15.621,17.4,2.5,md,5,141.2,,,us,usp000c6zj,2014-11-07T01:19:47.033Z,"1 km SSW of Brienza, Italy",earthquake,,,,,reviewed,rom,rom
+2003-08-29T05:56:08.300Z,40.77,15.518,5.7,2.5,md,7,163.7,,,us,usp000c66a,2014-11-07T01:19:36.336Z,"2 km WNW of Bella, Italy",earthquake,,,,,reviewed,rom,rom
+2003-08-29T03:31:07.000Z,41.656,15.679,14.6,2.7,md,10,144.6,,,us,usp000c660,2014-11-07T01:19:36.300Z,"6 km SW of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,rom,rom
+2003-08-23T08:35:54.800Z,41.75,14.863,9.3,2.5,md,8,194,,,us,usp000c5qh,2014-11-07T01:19:34.710Z,"1 km NE of Casacalenda, Italy",earthquake,,,,,reviewed,rom,rom
+2003-08-12T15:27:41.800Z,40.681,15.713,10,2.5,md,4,258,,,us,usp000c4pu,2014-11-07T01:19:30.304Z,"4 km SSE of Ruoti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-08-12T02:14:07.400Z,40.692,15.691,4.9,2.6,md,8,143.2,,,us,usp000c4nt,2014-11-07T01:19:30.199Z,"2 km SSE of Ruoti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-08-12T01:55:20.100Z,40.778,15.566,41.7,2.6,md,4,282.7,,,us,usp000c4nr,2014-11-07T01:19:30.196Z,"2 km NE of Bella, Italy",earthquake,,,,,reviewed,rom,rom
+2003-08-10T23:08:05.900Z,40.932,14.6,6.1,2.7,md,6,171.4,,,us,usp000c4kq,2014-11-07T01:19:29.848Z,"1 km ENE of Visciano, Italy",earthquake,,,,,reviewed,rom,rom
+2003-08-10T10:37:10.900Z,40.656,15.588,9.3,2.9,md,8,149.8,,,us,usp000c4jb,2014-11-07T01:19:29.755Z,"2 km S of Baragiano, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-30T01:09:02.200Z,40.826,15.323,6.2,2.7,md,7,96.2,,,us,usp000c3pe,2014-11-07T01:19:19.449Z,"0 km NNE of Castelnuovo di Conza, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-29T18:47:32.100Z,41.713,14.847,13.9,2.6,md,7,159.4,,,us,usp000c3ns,2014-11-07T01:19:19.400Z,"2 km ESE of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-27T16:10:03.500Z,40.586,15.581,17.4,2.9,md,10,80.4,,,us,usp000c3h3,2014-11-07T01:19:18.871Z,"3 km NE of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-26T11:18:26.200Z,41.821,15.67,6.2,3.2,md,18,134.3,,,us,usp000c3dj,2014-11-07T01:19:18.184Z,"8 km W of Cagnano Varano, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-26T00:25:41.900Z,41.797,15.589,5,2.6,md,4,269.6,,,us,usp000c3c4,2014-11-07T01:19:17.840Z,"5 km SSE of Sannicandro Garganico, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-24T17:12:19.100Z,41.744,14.801,11.6,2.8,md,11,170.1,,,us,usp000c38j,2014-11-07T01:19:17.295Z,"3 km NNW of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-24T00:24:24.600Z,41.577,14.977,9.8,2.8,md,11,101.8,,,us,usp000c368,2014-11-07T01:19:17.086Z,"1 km N of Celenza Valfortore, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-20T11:29:09.800Z,40.562,16.427,5,2.7,md,10,78.8,,,us,usp000c2yb,2014-11-07T01:19:16.051Z,"6 km SE of Grottole, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-14T00:48:16.800Z,40.564,15.691,10,2.5,md,4,232.5,,,us,usp000c2eh,2014-11-07T01:19:12.278Z,"2 km SSE of Tito, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-13T15:48:08.700Z,41.27,14.936,6.4,3.1,md,18,102,,,us,usp000c2ds,2014-11-07T01:19:12.187Z,"0 km SSE of San Giorgio la Molara, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-13T04:29:52.500Z,41.184,16.094,10,2.6,md,7,121,,,us,usp000c2c3,2014-11-07T01:19:12.024Z,"4 km SSE of Canosa di Puglia, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-08T17:04:09.700Z,41.713,14.921,9.5,2.5,md,7,154,,,us,usp000c208,2014-11-07T01:19:09.802Z,southern Italy,earthquake,,,,,reviewed,rom,rom
+2003-07-08T03:11:26.500Z,41.688,13.867,10,2.8,md,5,136.1,,,us,usp000c1ym,2014-11-07T01:19:09.562Z,"2 km NE of Settefrati, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-07T00:19:31.300Z,40.617,15.865,16.7,2.5,md,6,217.7,,,us,usp000c1uv,2014-11-07T01:19:09.058Z,"5 km ESE of Potenza, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-06T14:17:59.300Z,40.572,15.836,9.9,2.7,md,6,133.4,,,us,usp000c1tb,2014-11-07T01:19:08.748Z,"4 km E of Pignola, Italy",earthquake,,,,,reviewed,rom,rom
+2003-07-05T15:03:39.600Z,41.695,14.879,13.3,2.6,md,10,152.1,,,us,usp000c1qx,2014-11-07T01:19:08.483Z,"4 km WSW of Bonefro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-06-15T22:15:12.100Z,41.664,14.92,11.1,3.1,md,19,62.6,,,us,usp000bzz0,2014-11-07T01:18:56.109Z,"3 km W of Colletorto, Italy",earthquake,,,,,reviewed,rom,rom
+2003-06-09T03:31:28.100Z,41.677,14.898,10.9,2.8,md,12,100,,,us,usp000bzen,2014-11-07T01:18:53.007Z,"4 km SW of Bonefro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-06-07T00:21:36.700Z,41.487,15.643,6,3.1,md,24,125.4,,,us,usp000bz8n,2014-11-07T01:18:52.031Z,"8 km ENE of Foggia, Italy",earthquake,,,,,reviewed,rom,rom
+2003-06-04T02:18:40.400Z,40.569,16.455,10,2.5,md,7,119.2,,,us,usp000bz0a,2014-11-07T01:18:50.190Z,"3 km W of Miglionico, Italy",earthquake,,,,,reviewed,rom,rom
+2003-06-03T11:46:05.300Z,40.562,16.443,5,2.7,md,8,118.3,,,us,usp000byye,2014-11-07T01:18:49.768Z,"4 km W of Miglionico, Italy",earthquake,,,,,reviewed,rom,rom
+2003-06-03T00:36:55.200Z,41.616,14.631,9.5,3.2,md,17,82.9,,,us,usp000byww,2014-11-07T01:18:49.502Z,"2 km WNW of Ripalimosani, Italy",earthquake,,,,,reviewed,rom,rom
+2003-06-02T17:43:18.300Z,41.745,14.826,12.1,2.8,md,12,152.1,,,us,usp000byvp,2014-11-07T01:18:49.244Z,"1 km WNW of Casacalenda, Italy",earthquake,,,,,reviewed,rom,rom
+2003-06-01T15:45:18.200Z,41.663,14.825,12.4,4.4,mb,232,50.7,,,us,usp000byrb,2014-11-07T01:18:48.110Z,"3 km SSE of Ripabottoni, Italy",earthquake,,,,7,reviewed,rom,us
+2003-06-01T06:37:05.900Z,40.697,14.672,10.2,3,md,12,190,,,us,usp000byq2,2014-11-07T01:18:47.660Z,"2 km ENE of Tramonti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-06-01T04:03:14.900Z,41.647,14.871,9.3,2.9,md,14,96,,,us,usp000bypj,2014-11-07T01:18:47.357Z,"2 km N of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2003-05-31T18:32:56.300Z,41.682,14.911,10,2.5,md,6,145.7,,,us,usp000byng,2014-11-07T01:18:45.051Z,"3 km SW of Bonefro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-05-26T10:49:37.100Z,41.705,14.848,10.4,2.5,md,7,157.1,,,us,usp000by6p,2014-11-07T01:18:42.911Z,"2 km SE of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-05-26T03:57:30.200Z,40.633,15.431,10,3.1,md,15,74,,,us,usp000by5w,2014-11-07T01:18:42.755Z,"0 km NNW of Ariola, Italy",earthquake,,,,,reviewed,rom,rom
+2003-05-24T14:46:37.300Z,40.814,15.239,8.6,3.1,md,13,117.7,,,us,usp000by1h,2014-11-07T01:18:41.876Z,"1 km E of Caposele, Italy",earthquake,,,,,reviewed,rom,rom
+2003-05-10T18:18:20.500Z,40.213,15.886,21.1,2.5,md,4,282.7,,,us,usp000bwzh,2014-11-07T01:18:36.068Z,"3 km SSE of Moliterno, Italy",earthquake,,,,,reviewed,rom,rom
+2003-05-07T23:26:05.700Z,41.58,15.774,10.2,2.8,md,12,138.8,,,us,usp000bwtb,2014-11-07T01:18:35.411Z,"13 km WSW of Manfredonia, Italy",earthquake,,,,,reviewed,rom,rom
+2003-05-06T04:37:24.600Z,41.668,15.748,19.7,2.7,md,9,147.8,,,us,usp000bwq0,2014-11-07T01:18:34.985Z,"4 km SSE of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,rom,rom
+2003-05-04T06:10:53.100Z,40.507,16.164,5,3.1,md,15,72,,,us,usp000bwk1,2014-11-07T01:18:33.331Z,"1 km NNE of Accettura, Italy",earthquake,,,,,reviewed,rom,rom
+2003-05-02T03:53:07.000Z,41.65,14.795,6,4.1,ml,99,64.8,,,us,usp000bwe6,2014-11-07T01:18:31.365Z,"2 km NE of Campolieto, Italy",earthquake,,,,,reviewed,rom,the
+2003-04-29T18:45:45.600Z,41.626,16.217,5,3.7,ml,57,50.8,,,us,usp000bw7x,2014-11-07T01:18:27.518Z,"16 km SE of Mattinata, Italy",earthquake,,,,,reviewed,rom,ldg
+2003-04-29T10:47:32.600Z,41.611,14.962,10,3.7,md,46,71,,,us,usp000bw75,2014-11-07T01:18:27.212Z,"2 km NNW of Carlantino, Italy",earthquake,,,,,reviewed,rom,pdg
+2003-04-29T10:27:35.900Z,41.599,14.975,10.8,2.8,md,14,79.1,,,us,usp000bw72,2014-11-07T01:18:27.185Z,"0 km NNW of Carlantino, Italy",earthquake,,,,,reviewed,rom,rom
+2003-04-28T22:05:11.800Z,41.708,14.808,10,2.6,md,11,160.1,,,us,usp000bw5s,2014-11-07T01:18:27.029Z,"1 km SW of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-04-28T20:12:36.400Z,41.691,14.847,10.3,3.9,ml,49,49.3,,,us,usp000bw5m,2014-11-07T01:18:27.017Z,"3 km E of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,bud
+2003-04-26T02:30:57.400Z,40.747,15.414,9.2,2.5,md,6,91.7,,,us,usp000bvzd,2014-11-07T01:18:26.111Z,"4 km SSW of Castelgrande, Italy",earthquake,,,,,reviewed,rom,rom
+2003-04-21T23:41:33.100Z,40.886,14.593,5.2,3,md,13,186.8,,,us,usp000bvqc,2014-11-07T01:18:23.917Z,"0 km NE of Domicella, Italy",earthquake,,,,,reviewed,rom,rom
+2003-04-20T21:01:17.500Z,41.631,15.802,8,2.6,md,10,139.4,,,us,usp000bvmk,2014-11-07T01:18:23.280Z,"9 km W of Manfredonia, Italy",earthquake,,,,,reviewed,rom,rom
+2003-04-12T17:20:44.700Z,40.161,15.766,8.6,2.7,md,7,119.8,,,us,usp000bv1f,2014-11-07T01:18:20.103Z,"3 km N of Lagonegro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-04-09T08:33:57.100Z,41.646,14.44,7.2,2.5,md,6,221.8,,,us,usp000bush,2014-11-07T01:18:18.945Z,"2 km SW of Duronia, Italy",earthquake,,,,,reviewed,rom,rom
+2003-04-09T07:02:06.700Z,40.77,15.361,8.7,2.6,md,5,122.8,,,us,usp000buse,2014-11-07T01:18:18.936Z,"4 km ESE of Laviano, Italy",earthquake,,,,,reviewed,rom,rom
+2003-04-09T03:34:07.300Z,40.262,15.84,10,2.5,md,4,141.2,,,us,usp000burv,2014-11-07T01:18:18.884Z,"2 km NW of Moliterno, Italy",earthquake,,,,,reviewed,rom,rom
+2003-04-06T12:44:45.900Z,41.69,14.819,7.3,2.8,md,11,138.7,,,us,usp000bujb,2014-11-07T01:18:18.201Z,"0 km E of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-04-04T17:37:54.100Z,41.689,14.768,10.2,2.9,md,15,77.1,,,us,usp000buc6,2014-11-07T01:18:16.711Z,"2 km SSW of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2003-03-30T17:14:37.300Z,41.699,14.802,5,2.5,md,7,158,,,us,usp000bty4,2014-11-07T01:18:10.606Z,"1 km NNW of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-03-30T16:42:59.700Z,41.657,14.795,5,3.2,md,34,80.9,,,us,usp000btxx,2014-11-07T01:18:10.585Z,"3 km NE of Campolieto, Italy",earthquake,,,,,reviewed,rom,rom
+2003-03-28T14:32:16.400Z,41.664,14.903,8.1,2.9,md,19,51.6,,,us,usp000btq0,2014-11-07T01:18:09.283Z,"5 km SSW of Bonefro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-03-21T02:46:38.200Z,41.694,14.853,6.5,2.5,md,10,153.7,,,us,usp000bt4y,2014-11-07T01:18:07.120Z,"3 km SE of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-03-13T19:10:16.200Z,41.414,14.866,10,2.5,md,9,99.5,,,us,usp000bsk8,2014-11-07T01:18:04.162Z,"5 km ENE of Castelpagano, Italy",earthquake,,,,,reviewed,rom,rom
+2003-03-10T07:40:04.600Z,41.454,13.946,5,2.5,md,4,271.4,,,us,usp000bsb5,2014-11-07T01:18:02.795Z,"1 km SE of San Vittore del Lazio, Italy",earthquake,,,,,reviewed,rom,rom
+2003-03-03T23:31:22.300Z,41.675,14.786,5,2.7,md,10,152.3,,,us,usp000brx0,2014-11-07T01:17:58.471Z,"2 km SW of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-03-03T19:41:07.800Z,41.73,14.76,5,2.5,md,8,167.8,,,us,usp000brwq,2014-11-07T01:17:58.405Z,southern Italy,earthquake,,,,,reviewed,rom,rom
+2003-03-02T17:00:37.600Z,40.819,16.457,21.2,2.5,md,6,141.8,,,us,usp000brtp,2014-11-07T01:17:57.745Z,"3 km E of Gravina in Puglia, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-25T09:34:43.700Z,41.668,14.133,11.9,2.7,md,13,,,,us,usp000brez,2014-11-07T01:17:52.084Z,"1 km WSW of Acquaviva d'Isernia, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-22T06:33:44.800Z,41.722,14.819,9.3,2.6,md,15,,,,us,usp000br69,2014-11-07T01:17:50.756Z,"0 km NW of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-19T05:52:31.600Z,41.657,14.754,5,4.1,ml,77,,,,us,usp000br0c,2014-11-07T01:17:49.801Z,"2 km NNW of Campolieto, Italy",earthquake,,,,,reviewed,rom,bud
+2003-02-18T20:11:28.300Z,41.692,15.148,8,2.5,md,9,,,,us,usp000bqz3,2014-11-07T01:17:49.483Z,"8 km NNE of Casalnuovo Monterotaro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-17T15:06:56.100Z,41.764,15.972,10.2,2.7,md,9,,,,us,usp000bqwf,2014-11-07T01:17:49.249Z,"6 km N of Monte Sant'Angelo, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-16T00:36:05.800Z,41.685,14.789,5,3,md,15,,,,us,usp000bqsd,2014-11-07T01:17:48.788Z,"1 km WSW of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-09T16:29:23.100Z,41.733,14.766,6.1,2.5,md,9,,,,us,usp000bqb2,2014-11-07T01:17:46.651Z,"2 km NNW of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-08T23:39:05.500Z,41.713,14.763,5,2.7,md,13,,,,us,usp000bq9k,2014-11-07T01:17:46.435Z,"1 km W of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-08T00:07:16.200Z,41.715,14.768,4.5,2.6,md,11,,,,us,usp000bq7k,2014-11-07T01:17:46.182Z,"1 km WNW of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-04T14:50:35.600Z,40.643,15.659,9.8,2.5,md,5,,,,us,usp000bpzw,2014-11-07T01:17:45.066Z,"1 km ENE of Picerno, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-04T08:31:52.700Z,40.783,15.661,9.7,2.8,md,9,,,,us,usp000bpzb,2014-11-07T01:17:44.890Z,"5 km SW of Filiano, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-03T12:18:45.900Z,40.751,15.669,8,3.5,md,14,,,,us,usp000bpxa,2014-11-07T01:17:44.566Z,"4 km NNW of Ruoti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-03T11:24:41.000Z,40.753,15.643,8.4,3.6,ml,36,,,,us,usp000bpx4,2014-11-07T01:17:44.499Z,"5 km NW of Ruoti, Italy",earthquake,,,,,reviewed,rom,rom
+2003-02-02T14:32:16.900Z,41.661,14.769,5,2.9,md,21,,,,us,usp000bpum,2014-11-07T01:17:44.033Z,"3 km N of Campolieto, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-27T04:03:46.600Z,41.711,14.766,5,3.8,md,60,,,,us,usp000bp9v,2014-11-07T01:17:38.542Z,"1 km W of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,pdg
+2003-01-27T03:05:50.700Z,41.743,14.773,10.4,3.2,ml,31,,,,us,usp000bp9j,2014-11-07T01:17:38.521Z,southern Italy,earthquake,,,,,reviewed,rom,ldg
+2003-01-24T21:32:43.400Z,41.725,14.844,5,2.5,md,7,,,,us,usp000bp4b,2014-11-07T01:17:38.024Z,"1 km S of Casacalenda, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-24T04:11:41.800Z,40.762,15.384,9.9,2.6,md,7,,,,us,usp000bp36,2014-11-07T01:17:37.849Z,"4 km SW of Castelgrande, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-23T11:07:02.400Z,41.655,14.818,5,2.5,md,8,,,,us,usp000bp1x,2014-11-07T01:17:37.494Z,"3 km SSE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-22T18:18:58.700Z,41.639,14.838,5,3.2,md,31,,,,us,usp000bp04,2014-11-07T01:17:37.246Z,"3 km WNW of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-22T11:36:03.400Z,41.692,14.833,5.1,2.6,md,10,,,,us,usp000bnzr,2014-11-07T01:17:37.207Z,"2 km E of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-16T08:53:10.900Z,40.81,15.26,8.3,2.5,md,5,,,,us,usp000bnn6,2014-11-07T01:17:35.824Z,"3 km ESE of Caposele, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-14T21:17:43.600Z,41.678,14.848,10,3,md,12,,,,us,usp000bnje,2014-11-07T01:17:35.391Z,"3 km ESE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-14T00:48:54.500Z,40.166,15.796,5,2.6,md,4,,,,us,usp000bnh6,2014-11-07T01:17:35.196Z,"5 km NE of Lagonegro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-14T00:11:32.900Z,40.074,15.86,5,2.5,md,5,,,,us,usp000bnh4,2014-11-07T01:17:35.193Z,"3 km NNE of Lauria, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-13T23:01:03.200Z,40.161,15.824,15.7,2.9,md,9,,,,us,usp000bnh0,2014-11-07T01:17:35.183Z,"6 km NE of Lagonegro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-11T12:27:28.800Z,40.088,15.602,6.6,2.6,md,7,,,,us,usp000bndb,2014-11-07T01:17:34.755Z,"1 km NNE of Villammare, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-10T20:49:27.400Z,41.707,14.687,8.8,2.9,md,12,,,,us,usp000bnc8,2014-11-07T01:17:34.273Z,"1 km NNW of Petrella Tifernina, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-09T23:54:45.400Z,40.13,15.784,6.5,2.8,md,7,,,,us,usp000bnaz,2014-11-07T01:17:34.037Z,"1 km E of Lagonegro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-09T13:58:39.300Z,41.27,13.886,5,2.6,md,4,,,,us,usp000bnab,2014-11-07T01:17:33.985Z,"0 km NNW of Lauro, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-09T08:16:27.900Z,41.675,14.828,10,2.5,md,7,,,,us,usp000bna0,2014-11-07T01:17:33.944Z,"2 km SE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2003-01-08T01:02:01.700Z,40.234,15.806,10,2.5,md,5,,,,us,usp000bn7w,2014-11-07T01:17:33.587Z,"5 km WSW of Moliterno, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-30T05:55:09.500Z,41.652,14.961,10,2.7,md,8,,,,us,usp000bmqd,2014-11-07T01:17:26.814Z,"1 km SSW of Colletorto, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-24T23:53:15.300Z,41.715,14.799,5,2.6,md,11,,,,us,usp000bmc0,2014-11-07T01:17:25.617Z,"1 km ENE of Morrone del Sannio, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-21T16:22:48.000Z,41.717,14.812,6.9,2.6,md,11,,,,us,usp000bm3z,2014-11-07T01:17:24.140Z,"0 km W of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-19T07:39:28.600Z,41.733,14.892,13.5,2.7,md,10,,,,us,usp000bkz4,2014-11-07T01:17:22.653Z,"3 km E of Casacalenda, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-18T00:37:28.400Z,41.724,14.025,6.4,3.6,md,92,,,,us,usp000bkwh,2014-11-07T01:17:22.373Z,"1 km SSW of Alfedena, Italy",earthquake,,,,,reviewed,rom,pdg
+2002-12-14T15:55:25.700Z,41.642,14.833,10,2.8,md,17,,,,us,usp000bkps,2014-11-07T01:17:21.722Z,"3 km NNE of Monacilioni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-10T22:42:21.300Z,41.689,14.814,10,2.5,md,10,,,,us,usp000bkft,2014-11-07T01:17:20.076Z,"0 km ESE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-10T21:59:54.800Z,41.674,14.805,10,2.8,md,13,,,,us,usp000bkfp,2014-11-07T01:17:20.068Z,"1 km S of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-08T23:53:57.600Z,41.255,16.187,17.1,2.8,md,13,,,,us,usp000bkcd,2014-11-07T01:17:19.589Z,"9 km WNW of Andria, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-08T04:13:33.400Z,41.661,14.888,10,2.5,md,7,,,,us,usp000bka8,2014-11-07T01:17:19.334Z,"4 km NNE of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-08T01:35:04.600Z,41.257,16.187,15.1,2.7,md,11,,,,us,usp000bk9w,2014-11-07T01:17:19.304Z,"9 km WNW of Andria, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-07T08:37:43.800Z,41.68,14.819,10,2.6,md,12,,,,us,usp000bk92,2014-11-07T01:17:19.220Z,"1 km SE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-04T23:44:33.600Z,41.685,14.935,10,2.6,md,10,,,,us,usp000bk48,2014-11-07T01:17:18.732Z,"2 km S of Bonefro, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-02T21:33:31.600Z,41.65,14.897,10,3,md,8,,,,us,usp000bjzh,2014-11-07T01:17:17.959Z,"3 km NNE of Sant'Elia a Pianisi, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-02T20:56:56.800Z,41.663,14.847,9.9,3.6,ml,22,,,,us,usp000bjzc,2014-11-07T01:17:17.940Z,"4 km SE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,ldg
+2002-12-02T20:55:40.600Z,41.682,14.851,10,2.7,md,12,,,,us,usp000bjzb,2014-11-07T01:17:17.936Z,"3 km ESE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-02T20:52:59.200Z,41.668,14.855,10,4.4,ml,113,,,,us,usp000bjza,2014-11-07T01:17:17.907Z,"4 km ESE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,pdg
+2002-12-02T17:59:08.500Z,41.696,14.827,10,2.7,md,11,,,,us,usp000bjyz,2014-11-07T01:17:17.842Z,"1 km ENE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-12-02T16:29:00.700Z,41.667,14.775,10,3.7,md,39,,,,us,usp000bjyr,2014-11-07T01:17:17.766Z,"3 km SW of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,pdg
+2002-12-01T23:29:23.900Z,41.658,14.788,10,3.6,ml,55,,,,us,usp000bjw9,2014-11-07T01:17:16.651Z,"3 km NNE of Campolieto, Italy",earthquake,,,,,reviewed,rom,ldg
+2002-12-01T00:30:15.100Z,40.213,15.842,10,2.5,md,5,,,,us,usp000bjtk,2014-11-07T01:17:14.871Z,"3 km SSW of Moliterno, Italy",earthquake,,,,,reviewed,rom,rom
+2002-11-30T22:59:25.500Z,41.704,14.815,10.3,2.7,md,11,,,,us,usp000bjtc,2014-11-07T01:17:13.046Z,"1 km NNE of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-11-30T17:33:52.600Z,40.207,15.826,10,2.7,md,7,,,,us,usp000bjst,2014-11-07T01:17:12.975Z,"5 km SW of Moliterno, Italy",earthquake,,,,,reviewed,rom,rom
+2002-11-30T01:19:31.700Z,40.216,15.849,6.9,2.8,md,9,,,,us,usp000bjrb,2014-11-07T01:17:12.420Z,"3 km SSW of Moliterno, Italy",earthquake,,,,,reviewed,rom,rom
+2002-11-29T20:18:46.200Z,41.669,14.785,5,2.7,md,12,,,,us,usp000bjqz,2014-11-07T01:17:12.399Z,"3 km SW of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-11-29T19:18:05.800Z,41.692,14.914,7,3,md,13,,,,us,usp000bjqv,2014-11-07T01:17:12.382Z,"2 km SW of Bonefro, Italy",earthquake,,,,,reviewed,rom,rom
+2002-11-28T02:21:02.000Z,41.674,14.943,4.1,3.2,md,16,,,,us,usp000bjk8,2014-11-07T01:17:11.902Z,"2 km SW of San Giuliano di Puglia, Italy",earthquake,,,,,reviewed,rom,rom
+2002-11-27T18:07:51.900Z,41.73,14.816,14.2,2.5,md,10,,,,us,usp000bjhy,2014-11-07T01:17:11.798Z,"1 km NNW of Provvidenti, Italy",earthquake,,,,,reviewed,rom,rom
+2002-11-27T05:17:35.400Z,41.686,14.801,10.1,2.6,md,10,,,,us,usp000bjgf,2014-11-07T01:17:11.558Z,"0 km SW of Ripabottoni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-11-20T20:59:41.100Z,41.632,14.974,2.7,2.5,md,9,,,,us,usp000bj2c,2014-11-07T01:17:09.733Z,"3 km S of Colletorto, Italy",earthquake,,,,,reviewed,rom,rom
+2002-11-16T04:30:45.900Z,41.619,14.677,10,3.6,ml,32,,,1.31,us,usp000bhsf,2014-11-07T01:17:08.426Z,"1 km NE of Ripalimosani, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-13T02:52:11.720Z,41.634,14.765,10,3.5,ml,19,,,0.87,us,usp000bhjy,2014-11-07T01:17:07.158Z,"0 km WNW of Campolieto, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-12T13:46:07.700Z,41.777,14.643,10,4,ml,25,,,1.14,us,usp000bhhu,2014-11-07T01:17:07.057Z,"3 km W of Civitacampomarano, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-12T09:27:47.720Z,41.664,14.771,10,4.5,mb,118,,,1.21,us,usp000bhhb,2014-11-07T01:17:07.004Z,"3 km N of Campolieto, Italy",earthquake,,,,3,reviewed,us,us
+2002-11-11T19:13:39.970Z,41.687,14.829,10,3.6,ml,15,,,0.82,us,usp000bhf4,2014-11-07T01:17:06.732Z,"1 km E of Ripabottoni, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-11T18:32:13.380Z,41.515,14.732,10,3.7,ml,16,,,0.34,us,usp000bhez,2014-11-07T01:17:06.713Z,"0 km NW of Gildone, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-10T12:23:37.330Z,41.638,14.724,10,3.7,ml,23,,,1.05,us,usp000bhax,2014-11-07T01:17:06.305Z,"2 km NNE of Matrice, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-09T13:40:30.060Z,41.461,14.583,33,3.6,ml,27,,,1.06,us,usp000bh6y,2014-11-07T01:17:05.624Z,"3 km SSW of Vinchiaturo, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-05T23:10:40.000Z,41.796,14.789,10,3.8,ml,42,,,1.12,us,usp000bgqq,2014-11-07T01:17:01.354Z,"0 km SSW of Guardialfiera, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-04T03:26:30.490Z,41.835,14.717,10,4.2,ml,43,,,1.33,us,usp000bg4k,2014-11-07T01:16:57.687Z,"0 km NE of Castelmauro, Italy",earthquake,,,,,reviewed,us,pdg
+2002-11-04T00:35:46.300Z,41.804,14.744,10,4.2,mb,131,,,1.46,us,usp000bg2j,2014-11-07T01:16:57.436Z,"3 km SE of Castelmauro, Italy",earthquake,,,,10,reviewed,us,us
+2002-11-02T23:59:10.690Z,41.8,14.779,10,3.5,ml,28,,,1.16,us,usp000bfxz,2014-11-07T01:16:56.558Z,"1 km WSW of Guardialfiera, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-02T23:27:57.310Z,41.59,14.698,10,3.8,ml,45,,,1.15,us,usp000bfxu,2014-11-07T01:16:56.529Z,"3 km SSW of Matrice, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-02T06:21:43.810Z,41.763,14.663,10,3.8,ml,36,,,1.15,us,usp000bfw1,2014-11-07T01:16:55.983Z,"2 km SW of Civitacampomarano, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-02T02:37:00.770Z,41.788,14.738,10,3.6,mb,52,,,1.17,us,usp000bfvc,2014-11-07T01:16:55.758Z,"2 km N of Lupara, Italy",earthquake,,,,1,reviewed,us,us
+2002-11-01T22:43:58.550Z,41.791,14.713,10,4,md,80,,,1.32,us,usp000bfum,2014-11-07T01:16:55.338Z,"2 km ENE of Civitacampomarano, Italy",earthquake,,,,,reviewed,us,pdg
+2002-11-01T16:49:44.900Z,41.779,14.698,10,3.6,ml,28,,,0.76,us,usp000bfu0,2014-11-07T01:16:54.873Z,"0 km ESE of Civitacampomarano, Italy",earthquake,,,,,reviewed,us,ldg
+2002-11-01T15:42:02.540Z,41.68,14.683,10,3.7,md,24,,,1.19,us,usp000bftu,2014-11-07T01:16:54.829Z,"1 km SW of Petrella Tifernina, Italy",earthquake,,,,,reviewed,us,pdg
+2002-11-01T15:19:52.360Z,41.746,14.762,10,4.5,mb,89,,,1.44,us,usp000bfts,2014-11-07T01:16:54.789Z,"2 km SE of Lupara, Italy",earthquake,,,,3,reviewed,us,us
+2002-11-01T15:09:00.810Z,41.726,14.875,10,5.8,mwb,454,,,1.35,us,usp000bftq,2021-01-05T19:37:59.681Z,"2 km ESE of Casacalenda, Italy",earthquake,,,,,reviewed,us,us
+2002-11-01T09:27:23.650Z,41.716,14.815,10,3.6,md,25,,,1.08,us,usp000bft0,2014-11-07T01:16:53.870Z,"0 km WSW of Provvidenti, Italy",earthquake,,,,,reviewed,us,pdg
+2002-10-31T22:56:55.690Z,41.817,14.777,10,3.5,ml,35,,,1.14,us,usp000bfrx,2014-11-07T01:16:51.366Z,"1 km NW of Guardialfiera, Italy",earthquake,,,,,reviewed,us,ldg
+2002-10-31T21:33:14.510Z,41.815,14.72,10,3.5,md,30,,,1.43,us,usp000bfrr,2014-11-07T01:16:51.354Z,"1 km SSE of Castelmauro, Italy",earthquake,,,,,reviewed,us,pdg
+2002-10-31T16:56:42.020Z,41.747,14.82,10,4,ml,55,,,1.3,us,usp000bfr4,2014-11-07T01:16:51.284Z,"2 km WNW of Casacalenda, Italy",earthquake,,,,,reviewed,us,zag
+2002-10-31T13:03:47.100Z,41.737,14.732,10,4,ml,48,,,1.49,us,usp000bfqs,2014-11-07T01:16:51.225Z,"2 km S of Lupara, Italy",earthquake,,,,,reviewed,us,ldg
+2002-10-31T11:56:37.920Z,41.775,14.822,10,3.7,ml,40,,,1.14,us,usp000bfqm,2014-11-07T01:16:51.203Z,"4 km SE of Guardialfiera, Italy",earthquake,,,,,reviewed,us,zamg
+2002-10-31T10:32:58.770Z,41.789,14.872,10,5.9,mwb,471,,,1.25,us,usp000bfqg,2020-07-08T01:17:09.014Z,"4 km WSW of Larino, Italy",earthquake,,,,,reviewed,us,us
+2002-10-31T02:27:18.760Z,41.722,14.739,10,3.6,md,34,,,1.18,us,usp000bfpw,2014-11-07T01:16:51.095Z,"2 km NNE of Castellino del Biferno, Italy",earthquake,,,,,reviewed,us,pdg
+2002-10-04T22:58:39.500Z,40.196,15.869,10,3.2,md,9,,,,us,usp000bdtv,2014-11-07T01:16:42.157Z,"5 km S of Moliterno, Italy",earthquake,,,,,reviewed,rom,rom
+2002-10-03T22:56:40.400Z,40.241,15.863,10,2.5,md,6,,,,us,usp000bdrj,2014-11-07T01:16:41.507Z,"0 km SSW of Moliterno, Italy",earthquake,,,,,reviewed,rom,rom
+2002-09-20T07:35:45.600Z,40.644,15.861,4.1,2.7,md,10,,,,us,usp000bcps,2014-11-07T01:16:32.901Z,"4 km E of Potenza, Italy",earthquake,,,,,reviewed,rom,rom
+2002-09-07T07:38:16.000Z,41.551,15.842,7.8,3.1,md,20,,,,us,usp000bbhf,2014-11-07T01:16:28.308Z,"10 km SW of Manfredonia, Italy",earthquake,,,,,reviewed,rom,rom
+2002-09-06T01:01:08.300Z,41.371,16.17,7.4,3.2,md,6,,,,us,usp000bbb1,2014-11-07T01:16:27.044Z,"1 km E of Margherita di Savoia, Italy",earthquake,,,,,reviewed,rom,rom
+2002-09-03T01:45:07.700Z,40.473,15.511,5,2.5,md,5,,,,us,usp000bb5m,2014-11-07T01:16:25.902Z,"2 km E of Sant'Arsenio, Italy",earthquake,,,,,reviewed,rom,rom
+2002-08-26T23:13:33.500Z,41.701,15.738,15.7,2.7,md,4,,,,us,usp000baq0,2014-11-07T01:16:20.682Z,"1 km SE of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,rom,rom
+2002-08-20T21:54:49.600Z,41.777,15.849,18.4,2.6,md,7,,,,us,usp000baa9,2014-11-07T01:16:18.126Z,"7 km S of Carpino, Italy",earthquake,,,,,reviewed,rom,rom
+2002-08-14T06:55:23.700Z,41.502,13.79,5,2.7,md,6,,,,us,usp000b9vd,2014-11-07T01:16:15.808Z,"2 km ESE of Villa Santa Lucia, Italy",earthquake,,,,,reviewed,rom,rom
+2002-08-12T09:19:29.900Z,41.717,16.119,14.5,2.8,md,9,,,,us,usp000b9rj,2014-11-07T01:16:15.257Z,"5 km E of Mattinata, Italy",earthquake,,,,,reviewed,rom,rom
+2002-08-10T23:04:51.600Z,40.806,15.383,10.5,2.7,md,8,,,,us,usp000b9p5,2014-11-07T01:16:14.889Z,"3 km SSW of Pescopagano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-08-09T11:44:51.300Z,40.666,15.485,16.3,2.7,md,6,,,,us,usp000b9k3,2014-11-07T01:16:14.523Z,"0 km ESE of Ricigliano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-08-09T06:16:45.600Z,40.577,15.49,8.2,2.7,md,7,,,,us,usp000b9jn,2014-11-07T01:16:14.493Z,"1 km NNW of Caggiano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-08-05T22:42:23.400Z,41.414,14.675,5,3.2,md,16,,,,us,usp000b9cu,2014-11-07T01:16:13.649Z,"4 km NNE of Sassinoro, Italy",earthquake,,,,,reviewed,rom,rom
+2002-08-03T17:26:50.000Z,40.061,14.891,427.3,2.8,md,6,,,,us,usp000b98t,2014-11-07T01:16:12.782Z,"20 km SW of Pollica, Italy",earthquake,,,,,reviewed,rom,rom
+2002-07-21T22:50:24.700Z,40.764,15.296,8.9,2.7,md,8,,,,us,usp000b8hp,2014-11-07T01:16:05.785Z,"2 km SSW of Laviano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-07-17T21:48:20.700Z,40.665,15.549,6.7,2.6,md,7,,,,us,usp000b89q,2014-11-07T01:16:04.678Z,"3 km ENE of Balvano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-07-14T22:43:19.100Z,41.677,14.044,7.2,2.7,md,8,,,,us,usp000b84d,2014-11-07T01:16:04.087Z,"0 km NE of Pizzone, Italy",earthquake,,,,,reviewed,rom,rom
+2002-07-12T10:33:00.100Z,40.852,15.158,5,2.6,md,6,,,,us,usp000b7zc,2014-11-07T01:16:02.814Z,"3 km SSW of Lioni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-07-12T09:59:51.000Z,40.832,15.186,6,3,md,9,,,,us,usp000b7z8,2014-11-07T01:16:02.805Z,"3 km WNW of Caposele, Italy",earthquake,,,,,reviewed,rom,rom
+2002-07-12T02:30:19.200Z,40.847,15.179,4.7,2.5,md,5,,,,us,usp000b7ym,2014-11-07T01:16:02.751Z,"3 km S of Lioni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-07-08T08:12:01.200Z,40.715,15.264,10,2.5,md,5,,,,us,usp000b7qr,2014-11-07T01:16:01.765Z,"2 km WSW of Colliano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-07-07T01:56:51.600Z,41.833,13.991,5,2.8,md,10,,,,us,usp000b7n3,2014-11-07T01:16:01.559Z,"7 km WSW of Roccaraso, Italy",earthquake,,,,,reviewed,rom,rom
+2002-06-23T21:41:14.200Z,41.244,16.372,9.3,2.8,md,12,,,,us,usp000b6tf,2014-11-07T01:15:52.852Z,"4 km WSW of Capirro, Italy",earthquake,,,,,reviewed,rom,rom
+2002-06-21T19:34:38.800Z,40.104,16.001,5,2.7,md,10,,,,us,usp000b6ny,2014-11-07T01:15:52.374Z,"1 km NNW of Latronico, Italy",earthquake,,,,,reviewed,rom,rom
+2002-06-18T23:31:40.400Z,40.532,15.715,12.9,2.7,md,7,,,,us,usp000b6ev,2014-11-07T01:15:51.487Z,"6 km NNE of Sasso di Castalda, Italy",earthquake,,,,,reviewed,rom,rom
+2002-06-14T20:54:34.400Z,40.785,15.299,6.7,2.5,md,6,,,,us,usp000b65z,2014-11-07T01:15:50.076Z,"0 km W of Laviano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-06-11T20:02:58.500Z,40.536,15.702,11.4,3.1,md,16,,,,us,usp000b5zc,2014-11-07T01:15:49.020Z,"5 km E of Satriano di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-06-10T16:44:01.300Z,40.659,15.442,12,2.5,md,6,,,,us,usp000b5ww,2014-11-07T01:15:48.522Z,"3 km WSW of Ricigliano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-05-26T10:19:30.300Z,40.517,15.479,8.7,2.6,md,6,,,,us,usp000b503,2014-11-07T01:15:40.403Z,"1 km W of Polla, Italy",earthquake,,,,,reviewed,rom,rom
+2002-05-25T22:58:18.600Z,41.567,15.468,5,2.5,md,7,,,,us,usp000b4yw,2014-11-07T01:15:40.259Z,"12 km ENE of Lucera, Italy",earthquake,,,,,reviewed,rom,rom
+2002-05-21T17:39:45.300Z,40.068,15.953,5,2.5,md,6,,,,us,usp000b4r0,2014-11-07T01:15:38.880Z,"5 km WSW of Latronico, Italy",earthquake,,,,,reviewed,rom,rom
+2002-05-19T12:13:22.100Z,40.058,15.941,5,2.5,md,6,,,,us,usp000b4ku,2014-11-07T01:15:38.480Z,"5 km NNW of Castelluccio Superiore, Italy",earthquake,,,,,reviewed,rom,rom
+2002-05-12T20:20:04.000Z,40.635,15.7,19.1,2.6,md,8,,,,us,usp000b473,2014-11-07T01:15:37.051Z,"4 km E of Picerno, Italy",earthquake,,,,,reviewed,rom,rom
+2002-05-09T02:18:53.600Z,40.08,15.965,5,2.6,md,7,,,,us,usp000b400,2014-11-07T01:15:35.953Z,"3 km WSW of Latronico, Italy",earthquake,,,,,reviewed,rom,rom
+2002-05-08T19:29:28.800Z,40.073,15.991,5.2,3.1,md,16,,,,us,usp000b3zd,2014-11-07T01:15:35.842Z,"2 km SW of Latronico, Italy",earthquake,,,,,reviewed,rom,rom
+2002-05-04T09:41:21.000Z,40.654,15.441,12,2.7,md,8,,,,us,usp000b3pz,2014-11-07T01:15:34.366Z,"2 km N of Ariola, Italy",earthquake,,,,,reviewed,rom,rom
+2002-05-03T19:50:05.100Z,41.274,14.276,5,2.8,md,8,,,,us,usp000b3nu,2014-11-07T01:15:33.988Z,"2 km W of Dragoni, Italy",earthquake,,,,,reviewed,rom,rom
+2002-05-03T15:00:54.800Z,41.545,15.586,10,2.8,md,12,,,,us,usp000b3ng,2014-11-07T01:15:33.788Z,"10 km NNE of Foggia, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-29T19:23:41.500Z,40.385,16.226,8.9,2.8,md,8,,,,us,usp000b3ds,2014-11-07T01:15:29.603Z,"1 km S of Stigliano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-29T03:19:01.500Z,40.548,15.542,5,3.2,md,13,,,,us,usp000b3cm,2014-11-07T01:15:29.486Z,"1 km WNW of Sant'Angelo le Fratte, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-21T23:39:49.200Z,40.569,15.58,5.5,3.5,md,23,,,,us,usp000b2xr,2014-11-07T01:15:27.331Z,"2 km E of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-21T08:14:19.600Z,40.582,15.582,10,2.5,md,5,,,,us,usp000b2w5,2014-11-07T01:15:27.139Z,"2 km ENE of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-21T01:01:30.300Z,40.573,15.563,10,2.6,md,5,,,,us,usp000b2vk,2014-11-07T01:15:27.101Z,"1 km ENE of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-21T00:57:30.300Z,40.562,15.538,8.1,3.1,md,9,,,,us,usp000b2vj,2014-11-07T01:15:27.100Z,"1 km SW of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-20T23:31:45.300Z,40.571,15.564,10,2.6,md,5,,,,us,usp000b2vb,2014-11-07T01:15:27.082Z,"1 km E of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-19T22:12:32.000Z,40.594,15.591,10,2.6,md,5,,,,us,usp000b2sy,2014-11-07T01:15:26.782Z,"4 km NE of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-19T18:06:06.600Z,40.587,15.564,9.6,2.9,md,6,,,,us,usp000b2sk,2014-11-07T01:15:26.724Z,"2 km NNE of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-19T00:16:27.100Z,40.6,15.562,10,2.7,md,5,,,,us,usp000b2qv,2014-11-07T01:15:26.541Z,"3 km NNE of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-18T23:19:54.800Z,40.572,15.524,7.6,3.1,md,15,,,,us,usp000b2qn,2014-11-07T01:15:26.520Z,"2 km W of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-18T22:58:42.600Z,40.577,15.547,7,3,md,15,,,,us,usp000b2qk,2014-11-07T01:15:26.516Z,"0 km NNW of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-18T21:56:21.600Z,40.572,15.524,10,2.5,md,5,,,,us,usp000b2qc,2014-11-07T01:15:26.489Z,"2 km W of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-18T21:37:34.000Z,40.558,15.526,9,2.7,md,6,,,,us,usp000b2qa,2014-11-07T01:15:26.485Z,"2 km WSW of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-18T21:36:07.800Z,40.569,15.524,5,3.1,md,13,,,,us,usp000b2q9,2014-11-07T01:15:26.483Z,"2 km W of Savoia di Lucania, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-18T21:00:48.400Z,40.583,15.516,9.1,3.2,md,13,,,,us,usp000b2q7,2014-11-07T01:15:26.481Z,"2 km SSE of Vietri di Potenza, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-18T20:58:51.100Z,40.547,15.53,15.1,2.8,md,5,,,,us,usp000b2q6,2014-11-07T01:15:26.479Z,"2 km W of Sant'Angelo le Fratte, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-18T20:56:47.610Z,40.693,15.583,10,4.4,mb,186,,,1.27,us,usp000b2q4,2014-11-07T01:15:26.460Z,"0 km ESE of Scalo di Baragiano, Italy",earthquake,,,,22,reviewed,us,us
+2002-04-13T20:28:07.600Z,40.597,16.4,7.8,2.5,md,8,,,,us,usp000b2bm,2014-11-07T01:15:24.780Z,"1 km ESE of Grottole, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-13T17:04:46.600Z,40.569,16.394,5.6,3.8,mb,75,,,,us,usp000b2b8,2014-11-07T01:15:24.637Z,"4 km SSE of Grottole, Italy",earthquake,,,,1,reviewed,rom,us
+2002-04-13T10:48:37.300Z,40.142,15.851,10,2.5,md,6,,,,us,usp000b2as,2014-11-07T01:15:24.557Z,"7 km ENE of Lagonegro, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-13T08:44:09.300Z,40.489,15.817,5,2.7,md,7,,,,us,usp000b2ah,2014-11-07T01:15:24.543Z,"2 km S of Abriola, Italy",earthquake,,,,,reviewed,rom,rom
+2002-04-09T09:11:06.400Z,40.906,15.481,10,2.5,md,9,,,,us,usp000b219,2014-11-07T01:15:23.298Z,"6 km NNW of Rapone, Italy",earthquake,,,,,reviewed,rom,rom
+2002-03-31T06:40:49.500Z,41.719,13.893,8.4,2.6,md,7,,,,us,usp000b1e0,2014-11-07T01:15:16.390Z,"6 km NNE of Settefrati, Italy",earthquake,,,,,reviewed,rom,rom
+2002-03-24T00:11:02.100Z,40.259,16.414,5,2.8,md,9,,,,us,usp000b0xe,2014-11-07T01:15:13.552Z,"5 km WNW of Tursi, Italy",earthquake,,,,,reviewed,rom,rom
+2002-03-22T18:40:03.900Z,40.756,15.321,5,2.8,md,10,,,,us,usp000b0vc,2014-11-07T01:15:12.984Z,"3 km SSE of Laviano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-03-17T06:09:30.400Z,40.205,15.779,5,2.5,md,4,,,,us,usp000b0g7,2014-11-07T01:15:11.244Z,"7 km E of Casalbuono, Italy",earthquake,,,,,reviewed,rom,rom
+2002-03-17T04:53:11.000Z,40.235,15.905,5,2.8,md,8,,,,us,usp000b0g1,2014-11-07T01:15:11.012Z,"2 km SE of Sarconi, Italy",earthquake,,,,,reviewed,rom,rom
+2002-02-26T17:12:40.800Z,40.218,15.822,10,2.6,md,5,,,,us,usp000az85,2014-11-07T01:14:58.206Z,"4 km SW of Moliterno, Italy",earthquake,,,,,reviewed,rom,rom
+2002-02-20T22:31:07.400Z,40.792,13.993,5,2.5,md,4,,,,us,usp000ayux,2014-11-07T01:14:56.818Z,"4 km NNW of Procida, Italy",earthquake,,,,,reviewed,rom,rom
+2002-02-15T03:36:07.100Z,41.483,15.742,9.1,2.5,md,6,,,,us,usp000aygs,2014-11-07T01:14:55.164Z,"13 km NNE of Carapelle, Italy",earthquake,,,,,reviewed,rom,rom
+2002-02-14T02:34:45.900Z,40.644,15.557,10,2.6,md,5,,,,us,usp000aye3,2014-11-07T01:14:54.843Z,"3 km E of Balvano, Italy",earthquake,,,,,reviewed,rom,rom
+2002-02-11T21:09:19.000Z,40.751,15.388,9.3,2.5,md,7,,,,us,usp000ay93,2014-11-07T01:14:54.263Z,"5 km SW of Castelgrande, Italy",earthquake,,,,,reviewed,rom,rom
+2002-02-08T04:38:08.400Z,40.239,15.927,10,2.6,md,8,,,,us,usp000ay0g,2014-11-07T01:14:53.385Z,"3 km ESE of Sarconi, Italy",earthquake,,,,,reviewed,rom,rom
+2001-12-09T12:15:08.350Z,40.776,15.301,10,3.2,mb,51,,,,us,usp000auax,2014-11-07T01:14:27.479Z,"1 km SSW of Laviano, Italy",earthquake,,,,1,reviewed,rom,us
+2001-11-30T03:17:19.090Z,41.777,15.955,10,3.9,ml,105,,,,us,usp000atqw,2014-11-07T01:14:20.004Z,"7 km N of Monte Sant'Angelo, Italy",earthquake,,,,,reviewed,rom,ldg
+2001-11-20T18:29:25.980Z,41.602,15.703,10,3.7,ml,62,,,1.39,us,usp000at77,2014-11-07T01:14:17.035Z,"11 km S of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,us,ldg
+2000-10-24T22:54:08.750Z,41.816,13.796,10,3.7,md,40,,,,us,usp000a2bq,2014-11-07T01:11:18.671Z,"1 km NNE of Pescasseroli, Italy",earthquake,,,,,reviewed,rom,rom
+2000-05-18T02:45:49.290Z,40.907,15.174,10,3.7,mb,,,,1.4,us,usp0009t3t,2014-11-07T01:10:09.729Z,"2 km S of Sant'Angelo dei Lombardi, Italy",earthquake,,,,1,reviewed,us,us
+2000-04-19T14:08:59.200Z,41.774,15.081,33,3.5,mb,,,,1.42,us,usp0009rht,2014-11-07T01:09:55.003Z,"6 km ENE of Rotello, Italy",earthquake,,,,1,reviewed,us,us
+1999-04-05T07:51:56.610Z,40.845,15.302,10,3.8,mb,,,,1.25,us,usp00095tv,2014-11-07T01:07:23.236Z,"3 km NNW of Castelnuovo di Conza, Italy",earthquake,,,,3,reviewed,us,us
+1999-01-18T20:11:18.500Z,41.779,15.884,10,3.6,ml,,,,1.44,us,usp000919t,2014-11-07T01:06:49.738Z,"7 km SSE of Carpino, Italy",earthquake,,,,,reviewed,us,pdg
+1998-11-08T22:33:41.890Z,40.127,15.882,10,3.2,ml,,,,1.38,us,usp0008xvk,2014-11-07T01:06:25.354Z,"9 km NE of Nemoli, Italy",earthquake,,,,,reviewed,us,rom
+1998-09-23T04:27:45.370Z,41.729,15.821,10,4,ml,,,,,us,usp0008vct,2014-11-07T01:06:05.587Z,"8 km ENE of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,rom,pdg
+1998-09-22T23:23:36.150Z,41.8,15.916,10,4.5,ml,,,,,us,usp0008vcf,2014-11-07T01:06:05.338Z,"6 km SE of Carpino, Italy",earthquake,,,,,reviewed,rom,pdg
+1998-09-09T20:49:13.840Z,40.295,16.091,10,3.3,mb,,,,0.72,us,usp0008upg,2014-11-07T01:06:01.587Z,"2 km ESE of Armento, Italy",earthquake,,,,1,reviewed,us,us
+1998-04-26T05:38:06.510Z,40.837,15.644,10,3.6,ml,,,,1.48,us,usp0008kzb,2014-11-07T01:05:04.630Z,"4 km S of Atella, Italy",earthquake,,,,,reviewed,us,pdg
+1998-04-07T21:36:54.780Z,41.111,15.81,10,3.8,md,,,,,us,usp0008jqc,2014-11-07T01:04:57.664Z,"7 km NNE of Lavello, Italy",earthquake,,,,,reviewed,rom,rom
+1997-11-27T06:23:50.520Z,40.153,14.818,350,4,mb,,,,1.13,us,usp0008bdg,2014-11-07T01:03:57.680Z,"16 km SW of San Marco, Italy",earthquake,,,,12,reviewed,us,us
+1997-11-25T01:37:43.140Z,41.476,14.504,10,3.5,ml,,,,1.06,us,usp0008b9p,2014-11-07T01:03:57.185Z,"2 km NNE of San Polomatese, Italy",earthquake,,,,,reviewed,us,ldg
+1997-11-24T19:04:54.060Z,41.324,14.497,10,3.3,ml,,,,1.09,us,usp0008b9b,2014-11-07T01:03:57.161Z,"1 km SW of Cusano Mutri, Italy",earthquake,,,,,reviewed,us,ldg
+1997-04-22T03:12:03.530Z,41.421,14.644,21.2,3.7,mb,,,,0.89,us,usp00080zr,2014-11-07T01:02:37.333Z,"2 km NE of Sepino, Italy",earthquake,,3.8,,2,reviewed,us,us
+1997-04-17T21:42:24.630Z,41.234,14.473,10,3.3,ml,,,,1.18,us,usp00080rr,2014-11-07T01:02:35.667Z,"2 km W of San Salvatore Telesino, Italy",earthquake,,,,,reviewed,us,ldg
+1997-04-04T05:52:37.630Z,41.295,14.564,100,4.4,mb,,,,0.57,us,usp0007zxj,2014-11-07T01:02:29.834Z,"1 km N of Cerreto Sannita, Italy",earthquake,,,,3,reviewed,us,us
+1997-03-19T23:10:49.200Z,41.397,14.626,10,4.6,mb,,,,1.28,us,usp0007z43,2014-11-07T01:02:21.227Z,"1 km SSE of Sepino, Italy",earthquake,,,,4,reviewed,us,us
+1996-07-31T05:31:52.090Z,41.302,14.381,24.6,3.2,ml,,,,1.2,us,usp0007mwn,2014-11-07T01:00:51.315Z,"3 km SSW of San Potito Sannitico, Italy",earthquake,,6.7,,,reviewed,us,rom
+1996-07-17T09:05:05.610Z,40.754,15.312,10,3.7,mb,,,,0.9,us,usp0007m5h,2014-11-07T01:00:48.195Z,"3 km S of Laviano, Italy",earthquake,,,,4,reviewed,us,us
+1996-04-04T13:04:34.850Z,40.721,15.465,10,4.4,ml,,,,0.6,us,usp0007frk,2014-11-07T01:00:14.646Z,"4 km SSW of Muro Lucano, Italy",earthquake,,,,,reviewed,us,rom
+1996-04-03T13:04:34.520Z,40.761,15.493,10,4.7,mb,,,,1.1,us,usp0007fq6,2014-11-07T01:00:13.877Z,"0 km NNE of Muro Lucano, Italy",earthquake,,,,26,reviewed,us,us
+1995-12-01T12:26:22.080Z,41.743,15.746,10,3.7,mb,,,,1,us,usp00077wd,2014-11-07T00:59:18.279Z,"4 km NNE of San Giovanni Rotondo, Italy",earthquake,,,,5,reviewed,us,us
+1995-10-22T07:33:25.700Z,41.834,16.015,10,3.7,mb,,,,1.4,us,usp00075j9,2014-11-07T00:59:00.009Z,"8 km SE of Vico del Gargano, Italy",earthquake,,,,1,reviewed,us,us
+1995-10-21T08:01:35.910Z,41.319,15.053,10,3.5,ml,,,,0.8,us,usp00075gn,2014-11-07T00:58:59.846Z,"3 km NW of Castelfranco in Miscano, Italy",earthquake,,,,,reviewed,us,ttg
+1995-10-20T19:54:08.950Z,41.82,15.759,10,3.6,md,,,,0.8,us,usp00075g7,2014-11-07T00:58:59.717Z,"1 km SW of Cagnano Varano, Italy",earthquake,,,,,reviewed,us,rom
+1995-09-30T22:26:41.550Z,41.733,15.755,10,3.5,mb,,,,1.5,us,usp000747w,2014-11-07T00:58:48.253Z,"3 km NE of San Giovanni Rotondo, Italy",earthquake,,,,1,reviewed,us,us
+1995-09-05T13:43:06.170Z,41.642,15.367,10,3.4,md,,,,1.4,us,usp00072y6,2014-11-07T00:58:41.316Z,"4 km SSW of San Severo, Italy",earthquake,,,,,reviewed,us,rom
+1995-09-02T21:08:12.780Z,41.633,15.443,17.7,3.6,mb,,,,1.2,us,usp00072tz,2014-11-07T00:58:40.138Z,"7 km SE of San Severo, Italy",earthquake,,5.1,,2,reviewed,us,us
+1995-08-27T05:28:34.670Z,41.64,15.459,11.7,3.1,ml,,,,0.9,us,usp00072gz,2014-11-07T00:58:36.030Z,"8 km SE of San Severo, Italy",earthquake,,2.7,,,reviewed,us,rom
+1995-08-07T01:02:32.750Z,41.728,15.143,10,3.8,mb,,,,0.9,us,usp00071j0,2014-11-07T00:58:30.031Z,"9 km S of Serracapriola, Italy",earthquake,,,,1,reviewed,us,us
+1995-06-13T07:37:28.820Z,40.776,15.496,10,3.7,mb,,,,1.1,us,usp0006z0p,2014-11-07T00:58:08.457Z,"2 km NNE of Muro Lucano, Italy",earthquake,,,,1,reviewed,us,us
+1995-05-29T20:44:23.540Z,40.279,16.049,10,4,mb,,,,1.1,us,usp0006y9p,2014-11-07T00:58:01.038Z,"3 km SSW of Armento, Italy",earthquake,,,,16,reviewed,us,us
+1995-05-15T14:17:47.110Z,40.134,15.23,333.5,4,mb,,,,1,us,usp0006xdt,2014-11-07T00:57:55.862Z,"2 km N of Pisciotta, Italy",earthquake,,8,,15,reviewed,us,us
+1995-03-19T01:52:39.360Z,41.103,15.054,10,4.2,mb,,,,1.3,us,usp0006ucs,2014-11-07T00:57:31.832Z,"0 km E of Melito Irpino, Italy",earthquake,,,,2,reviewed,us,us
+1995-02-01T12:45:34.400Z,40.858,15.411,5,3.4,ml,,,,1.3,us,usp0006s71,2014-11-07T00:57:14.436Z,"2 km NNE of Pescopagano, Italy",earthquake,,,,,reviewed,us,rom
+1994-11-12T21:35:32.820Z,40.551,15.794,10,3.8,ml,,,,1,us,usp0006nfh,2014-11-07T00:56:46.812Z,"2 km SSE of Pignola, Italy",earthquake,,,,,reviewed,us,ttg
+1994-11-08T14:06:57.120Z,41.78,15.503,10,3.2,ml,,,,0.7,us,usp0006n9f,2014-11-07T00:56:46.035Z,"4 km E of Apricena, Italy",earthquake,,,,,reviewed,us,ttg
+1994-08-25T02:25:00.800Z,40.085,15.2,10,3.3,ml,,,,0.5,us,usp0006hfb,2014-11-07T00:56:07.501Z,"3 km SW of Pisciotta, Italy",earthquake,,,,,reviewed,us,ttg
+1994-06-11T04:09:06.170Z,40.865,15.289,10,3.3,md,,,,1.5,us,usp0006e2v,2014-11-07T00:55:40.840Z,"3 km ENE of Teora, Italy",earthquake,,,,,reviewed,us,rom
+1994-01-20T00:31:31.360Z,41.723,14.09,10,3.2,md,,,,1.2,us,usp000670n,2014-11-07T00:54:49.050Z,"1 km ENE of Montenero Val Cocchiara, Italy",earthquake,,,,,reviewed,us,rom
+1993-08-16T06:40:41.850Z,40.626,15.527,10,3.3,md,,,,1.3,us,usp0005yn5,2014-11-07T00:53:44.666Z,"2 km SSE of Balvano, Italy",earthquake,,,,,reviewed,us,rom
+1993-04-05T22:55:32.380Z,40.721,15.757,10,4.2,ml,,,,1.2,us,usp0005qqm,2014-11-07T00:52:46.550Z,"3 km ESE of Avigliano, Italy",earthquake,,,,,reviewed,us,ttg
+1993-01-01T18:46:13.800Z,41.574,13.877,10,3.8,ml,,,,1.2,us,usp0005k6t,2014-11-07T00:52:09.360Z,"3 km NW of Vallerotonda, Italy",earthquake,,,,,reviewed,us,ttg
+1992-11-05T13:34:29.750Z,41.676,15.798,85.8,4.4,mb,,,,0.9,us,usp0005gbb,2014-11-07T00:51:48.991Z,"6 km ESE of San Giovanni Rotondo, Italy",earthquake,,9,,1,reviewed,us,us
+1992-11-04T19:27:57.200Z,41.458,14.87,7,3.1,ml,,,,0.9,us,usp0005ga0,2014-11-07T00:51:48.637Z,"4 km SE of Riccia, Italy",earthquake,,3.4,,,reviewed,us,ttg
+1992-06-17T05:41:47.720Z,41.489,15.725,10,3.3,md,,,,1,us,usp000597f,2014-11-07T00:50:50.597Z,"14 km N of Carapelle, Italy",earthquake,,,,,reviewed,us,rom
+1992-05-08T02:11:32.710Z,40.7,15.721,18.4,3.9,ml,,,,1.1,us,usp000571z,2014-11-07T00:50:36.250Z,"3 km ESE of Ruoti, Italy",earthquake,,4.6,,,reviewed,us,ttg
+1992-03-19T23:34:13.190Z,41.556,14.61,16.8,3.7,md,,,,1.1,us,usp00054hf,2014-11-07T00:50:17.542Z,"3 km SSE of Oratino, Italy",earthquake,,3.7,,,reviewed,us,lju
+1992-03-18T16:29:54.500Z,41.279,14.8,10,3.9,ml,,,,1.2,us,usp00054fj,2014-11-07T00:50:17.128Z,"2 km SW of Reino, Italy",earthquake,,,,,reviewed,us,ldg
+1992-03-16T05:45:35.350Z,41.406,13.957,10,3,md,,,,1.3,us,usp00054bb,2014-11-07T00:50:16.243Z,"2 km W of Mignano Monte Lungo, Italy",earthquake,,,,,reviewed,us,rom
+1992-03-15T23:44:33.060Z,41.497,14.045,20.2,3.6,ml,,,,1,us,usp00054aq,2014-11-07T00:50:16.183Z,"1 km N of Venafro, Italy",earthquake,,5.2,,,reviewed,us,ldg
+1991-12-14T21:38:44.980Z,41.267,15.191,14.7,3.4,md,,,,1.4,us,usp00050fb,2014-11-07T00:49:44.554Z,"2 km NE of Greci, Italy",earthquake,,4.4,,,reviewed,us,rom
+1991-11-23T10:45:14.910Z,40.455,15.751,10,3,ml,,,,1,us,usp0004zgu,2014-11-07T00:49:35.920Z,"3 km NNE of Marsico Nuovo, Italy",earthquake,,,,,reviewed,us,ttg
+1991-08-01T08:45:01.950Z,40.328,13.778,10,3.3,mb,,,,1.3,us,usp0004uvh,2014-11-07T00:49:01.410Z,"42 km SSW of Sant'Angelo, Italy",earthquake,,,,1,reviewed,us,us
+1991-05-26T12:26:00.270Z,40.73,15.765,8.1,5.1,mb,,,,1.1,us,usp0004s3u,2020-07-08T00:03:14.913Z,"3 km E of Avigliano, Italy",earthquake,,1.6,,17,reviewed,us,us
+1991-05-16T13:36:32.360Z,41.339,14.697,10,3.7,ml,,,,1.2,us,usp0004rqu,2014-11-07T00:48:35.581Z,southern Italy,earthquake,,,,,reviewed,us,the
+1991-05-05T17:16:57.030Z,40.273,15.952,33,4.1,mb,,,,1.3,us,usp0004r9m,2014-11-07T00:48:32.983Z,"1 km WNW of Spinoso, Italy",earthquake,,,,5,reviewed,us,us
+1991-02-26T07:25:47.270Z,40.186,13.822,401.2,5.3,mw,,,,1.1,us,usp0004nej,2016-11-09T21:58:10.101Z,"52 km SW of Anacapri, Italy",earthquake,,1.5,,,reviewed,us,hrv
+1990-08-28T19:02:52.880Z,40.756,15.921,13,4.2,md,,,,1.2,us,usp0004e10,2014-11-07T00:47:00.313Z,"2 km N of Cancellara, Italy",earthquake,,2.4,,,reviewed,us,ath
+1990-08-26T13:41:25.290Z,40.507,15.716,10,3.5,mb,,,,1.2,us,usp0004dx2,2014-11-07T00:46:59.516Z,"4 km NE of Sasso di Castalda, Italy",earthquake,,,,1,reviewed,us,us
+1990-05-13T19:10:14.030Z,40.665,15.822,10,3.3,md,,,,0.7,us,usp0004993,2014-11-07T00:46:21.647Z,"2 km NNE of Potenza, Italy",earthquake,,,,,reviewed,us,rom
+1990-05-06T05:43:28.100Z,40.659,15.708,10,2.8,ml,,,,1.1,us,usp00048xk,2014-11-07T00:46:18.651Z,"5 km ENE of Picerno, Italy",earthquake,,,,,reviewed,us,rom
+1990-05-05T20:00:00.220Z,40.667,15.713,25.1,3.5,ml,,,,1.3,us,usp00048x2,2014-11-07T00:46:18.588Z,"6 km SSE of Ruoti, Italy",earthquake,,3.8,,,reviewed,us,ttg
+1990-05-05T08:58:46.000Z,40.708,15.723,10,3.2,ml,,,,1.3,us,usp00048w4,2014-11-07T00:46:17.515Z,"2 km S of Avigliano, Italy",earthquake,,,,,reviewed,us,rom
+1990-05-05T08:03:48.080Z,40.731,15.927,7.5,3.3,ml,,,,1.2,us,usp00048vy,2014-11-07T00:46:17.494Z,"0 km E of Cancellara, Italy",earthquake,,3.3,,,reviewed,us,rom
+1990-05-05T07:59:33.400Z,40.719,15.822,10,2.8,ml,,,,1.2,us,usp00048vx,2014-11-07T00:46:17.485Z,southern Italy,earthquake,,,,,reviewed,us,lju
+1990-05-05T07:38:12.330Z,40.75,15.814,15,4.5,mb,,,,1.3,us,usp00048vv,2014-11-07T00:46:17.453Z,"5 km W of Pietragalla, Italy",earthquake,,3.8,,9,reviewed,us,us
+1990-05-05T07:21:29.540Z,40.775,15.766,10,5.8,mw,,,,1.4,us,usp00048vr,2020-08-28T23:39:25.264Z,"6 km NE of Avigliano, Italy",earthquake,,,,,reviewed,us,hrv
+1990-05-05T07:21:18.000Z,40.744,15.853,12.7,4.6,mb,,,,1.3,us,usp00048vq,2020-07-07T23:57:21.386Z,"1 km W of Pietragalla, Italy",earthquake,,1.8,,11,reviewed,us,us
+1990-05-03T04:57:58.000Z,41.166,14.752,11.1,3,ml,,,,1.2,us,usp00048sj,2014-11-07T00:46:16.591Z,"4 km NNW of Benevento, Italy",earthquake,,3,,,reviewed,us,vie
+1990-04-22T09:45:05.000Z,41.178,14.711,11,3.1,ml,,,,1.1,us,usp00048ae,2014-11-07T00:46:11.288Z,"2 km ESE of Torrecuso, Italy",earthquake,,2.8,,,reviewed,us,rom
+1990-04-16T19:09:32.740Z,41.741,14.206,5,3.2,ml,,,,1.2,us,usp0004804,2014-11-07T00:46:09.798Z,"5 km NNW of Roccasicura, Italy",earthquake,,,,,reviewed,us,ttg
+1989-11-25T18:21:54.260Z,41.693,15.831,33,3.2,ml,,,,0.9,us,usp00042e7,2014-11-07T00:45:14.253Z,"8 km E of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,us,kba
+1989-06-21T01:44:37.470Z,40.833,14.862,10,2.7,md,,,,1.1,us,usp0003wfh,2014-11-07T00:44:23.599Z,"2 km E of Solofra, Italy",earthquake,,,,,reviewed,us,rom
+1989-06-02T02:00:00.540Z,41.664,14.047,10,3,md,,,,1.1,us,usp0003vwc,2014-11-07T00:44:18.135Z,"1 km SE of Pizzone, Italy",earthquake,,,,,reviewed,us,rom
+1989-05-29T11:19:12.560Z,40.586,15.758,25,4.1,mb,,,,1,us,usp0003vsb,2014-11-07T00:44:15.446Z,"2 km WNW of Pignola, Italy",earthquake,,2.7,,2,reviewed,us,us
+1989-03-11T21:05:44.330Z,41.815,15.449,10,3.9,ml,,,,0.7,us,usp0003sv2,2014-11-07T00:43:48.732Z,"3 km N of Apricena, Italy",earthquake,,,,,reviewed,us,rom
+1988-06-29T12:37:12.710Z,41.572,15.363,22.7,3.1,md,,,,0.5,us,usp0003hep,2014-11-07T00:42:22.809Z,"7 km NNE of Lucera, Italy",earthquake,,13.2,,,reviewed,us,rom
+1988-06-07T03:53:13.650Z,41.654,14.374,10,2.9,md,,,,0.4,us,usp0003gsy,2014-11-07T00:42:17.936Z,southern Italy,earthquake,,,,,reviewed,us,rom
+1988-01-12T23:01:01.250Z,40.332,15.482,28.3,4,mb,,,,1.1,us,usp0003c0b,2014-11-07T00:41:30.632Z,"5 km WSW of Monte San Giacomo, Italy",earthquake,,2.5,,3,reviewed,us,us
+1988-01-08T13:05:46.550Z,40.084,16.006,10,4.8,mb,,,,1.2,us,usp0003bwn,2014-11-07T00:41:29.725Z,"0 km SSW of Latronico, Italy",earthquake,,,,15,reviewed,us,us
+1987-10-06T21:52:58.850Z,41.766,14.239,10,3.2,ml,,,,1,us,usp000391m,2014-11-07T00:41:03.840Z,"1 km WSW of Vastogirardi, Italy",earthquake,,,,,reviewed,us,kba
+1987-09-01T00:04:41.510Z,40.709,15.486,22.1,3.4,mb,,,,1.3,us,usp00037zc,2014-11-07T00:40:51.221Z,"4 km N of Ricigliano, Italy",earthquake,,7.5,,1,reviewed,us,us
+1987-01-28T05:33:21.890Z,40.951,15.474,10.3,4.1,mb,,,,1,us,usp00031zh,2014-11-07T00:39:41.033Z,"3 km S of Aquilonia, Italy",earthquake,,3.6,,4,reviewed,us,us
+1986-08-11T22:49:18.840Z,41.158,15.414,218.2,3.9,mb,,,,1.2,us,usp0002x2c,2014-11-07T00:38:51.028Z,"2 km ENE of Sant'Agata di Puglia, Italy",earthquake,,14.4,,16,reviewed,us,us
+1986-07-23T08:19:50.180Z,40.678,15.657,14.8,4.5,mb,,,,1.1,us,usp0002wds,2020-08-28T20:33:07.532Z,"4 km NNE of Picerno, Italy",earthquake,,6.6,,6,reviewed,us,us
+1986-07-16T19:15:39.270Z,41.141,14.549,10,3.7,m,,,,0.9,us,usp0002w2v,2014-11-07T00:38:42.092Z,"2 km SE of Frasso Telesino, Italy",earthquake,,,,,reviewed,us,lju
+1986-06-21T18:10:55.180Z,40.109,14.147,413.4,4.3,mb,,,,1.1,us,usp0002v96,2014-11-07T00:38:34.049Z,"49 km S of Anacapri, Italy",earthquake,,12.1,,21,reviewed,us,us
+1986-03-26T08:53:54.160Z,41.705,14.987,10,3.9,mb,,,,0.8,us,usp0002sa4,2014-11-07T00:38:05.890Z,southern Italy,earthquake,,,,1,reviewed,us,us
+1986-01-18T08:32:44.410Z,41.496,14.188,10,3.7,ml,,,,1,us,usp0002q6m,2014-11-07T00:37:47.988Z,"3 km SSE of Monteroduni, Italy",earthquake,,,,,reviewed,us,kba
+1986-01-18T00:22:50.040Z,41.776,14.245,10,3.3,ml,,,,1.5,us,usp0002q67,2014-11-07T00:37:47.913Z,"1 km W of Vastogirardi, Italy",earthquake,,,,,reviewed,us,kba
+1986-01-09T21:39:30.380Z,40.701,15.352,10,3.4,mb,,,,0.8,us,usp0002px4,2014-11-07T00:37:46.154Z,"5 km ESE of Colliano, Italy",earthquake,,,,1,reviewed,us,us
+1986-01-08T06:08:59.780Z,41.786,14.344,10,3.4,ml,,,,1.3,us,usp0002pvt,2014-11-07T00:37:45.915Z,southern Italy,earthquake,,,,,reviewed,us,kba
+1985-10-27T11:45:23.540Z,41.532,15.629,10,3.8,mb,,,,0.9,us,usp0002m67,2014-11-07T00:37:21.443Z,"10 km NE of Foggia, Italy",earthquake,,,,1,reviewed,us,us
+1985-04-19T06:22:33.050Z,41.676,13.898,10,3.1,ml,,,,1.3,us,usp0002dxm,2014-11-07T00:36:27.281Z,"3 km E of Settefrati, Italy",earthquake,,,,,reviewed,us,kba
+1985-03-14T23:03:50.820Z,41.631,14.263,14.6,4.3,mb,,,,1.2,us,usp0002cw3,2020-08-27T00:05:30.985Z,"2 km SE of Miranda, Italy",earthquake,,3.3,,6,reviewed,us,us
+1984-12-03T18:05:33.690Z,41.728,13.804,10,3.5,ml,,,,1,us,usp00029ru,2014-11-07T00:35:49.223Z,"2 km NNW of San Donato Val di Comino, Italy",earthquake,,,,,reviewed,us,kba
+1984-10-23T04:41:43.510Z,41.784,13.867,10,4.7,mb,,,,1.3,us,usp00028ds,2014-11-07T00:35:36.090Z,"3 km ENE of Opi, Italy",earthquake,,,,1,reviewed,us,us
+1984-09-24T05:39:54.580Z,41.38,14.526,17.4,4.1,mb,,,,0.8,us,usp00027nc,2014-11-07T00:35:28.699Z,"4 km NNW of Pietraroja, Italy",earthquake,,5,,2,reviewed,us,us
+1984-07-01T07:47:12.760Z,41.833,13.945,10,4.4,mb,,,,1,us,usp00025eg,2014-11-07T00:35:07.211Z,"6 km N of Villetta Barrea, Italy",earthquake,,,,7,reviewed,us,us
+1984-06-24T22:02:46.470Z,41.831,13.922,40.1,4.2,mb,,,,1.1,us,usp000258e,2014-11-07T00:35:04.685Z,"6 km NNW of Villetta Barrea, Italy",earthquake,,7,,2,reviewed,us,us
+1984-06-19T01:27:21.400Z,41.681,13.881,10,4.2,ml,,,,1,us,usp000253v,2014-11-07T00:35:03.915Z,"2 km ENE of Settefrati, Italy",earthquake,,,,,reviewed,us,tri
+1984-05-12T22:37:55.320Z,41.743,13.92,10,3.7,ml,,,,0.9,us,usp00024b9,2014-11-07T00:34:54.147Z,"3 km SW of Civitella Alfedena, Italy",earthquake,,,,,reviewed,us,tri
+1984-05-12T04:56:23.690Z,41.605,13.952,10,3.9,mb,,,,1.3,us,usp00024af,2014-11-07T00:34:54.041Z,"2 km ESE of San Biagio Saracinisco, Italy",earthquake,,,,3,reviewed,us,us
+1984-05-12T00:08:39.930Z,41.45,14.058,10,3.7,mb,,,,1.4,us,usp00024a6,2014-11-07T00:34:53.993Z,"3 km NNW of Sesto Campano, Italy",earthquake,,,,3,reviewed,us,us
+1984-05-11T16:39:17.300Z,41.768,13.897,10,4.5,mb,,,,1.3,us,usp000249t,2014-11-07T00:34:53.947Z,"3 km WSW of Villetta Barrea, Italy",earthquake,,,,8,reviewed,us,us
+1984-05-11T14:56:50.110Z,41.519,13.938,10,3.7,md,,,,1.2,us,usp000249n,2014-11-07T00:34:53.878Z,"2 km WSW of Viticuso, Italy",earthquake,,,,,reviewed,us,kba
+1984-05-11T13:39:00.200Z,41.721,13.862,10,4.3,mb,,,,1.4,us,usp000249m,2014-11-07T00:34:53.871Z,"4 km ENE of San Donato Val di Comino, Italy",earthquake,,,,6,reviewed,us,us
+1984-05-11T13:14:56.780Z,41.833,13.941,17,4.6,mb,,,,1.2,us,usp000249j,2014-11-07T00:34:53.856Z,"6 km N of Villetta Barrea, Italy",earthquake,,3.6,,18,reviewed,us,us
+1984-05-11T12:03:54.980Z,41.742,13.946,10,4.2,md,,,,1.2,us,usp000249g,2014-11-07T00:34:53.852Z,"2 km S of Civitella Alfedena, Italy",earthquake,,,,,reviewed,us,kba
+1984-05-11T11:26:15.630Z,41.784,13.865,17.9,4.6,mb,,,,1,us,usp000249d,2014-11-07T00:34:53.834Z,"3 km ENE of Opi, Italy",earthquake,,4.1,,12,reviewed,us,us
+1984-05-11T10:50:05.350Z,41.77,13.82,10,4.3,mb,,,,1.2,us,usp000249c,2014-11-07T00:34:53.828Z,"1 km SW of Opi, Italy",earthquake,,,,7,reviewed,us,us
+1984-05-11T10:41:49.940Z,41.831,13.961,13.9,5.5,mw,,,,1.2,us,usp000249a,2020-07-07T23:41:51.477Z,"6 km NNE of Villetta Barrea, Italy",earthquake,,1.7,,,reviewed,us,hrv
+1984-05-07T18:26:50.020Z,41.782,13.82,10,3.6,mb,,,,1.2,us,usp000246v,2014-11-07T00:34:53.138Z,"0 km WNW of Opi, Italy",earthquake,,,,1,reviewed,us,us
+1984-05-07T18:07:14.870Z,41.694,13.834,10,4.3,mb,,,,1.2,us,usp000246u,2014-11-07T00:34:53.120Z,"2 km SE of San Donato Val di Comino, Italy",earthquake,,,,6,reviewed,us,us
+1984-05-07T17:49:41.660Z,41.765,13.898,10,5.9,mw,,,,1.2,us,usp000246t,2020-07-07T23:41:38.200Z,"3 km WSW of Villetta Barrea, Italy",earthquake,,,,,reviewed,us,hrv
+1984-03-14T11:03:18.700Z,40.848,14.192,10,3.2,ml,,,,0.9,us,usp00022na,2020-08-26T23:19:51.203Z,"0 km N of Soccavo, Italy",earthquake,,,,,reviewed,us,rmp
+1984-03-09T18:11:29.470Z,40.812,14.051,10,3.7,mb,,,,1.2,us,usp00022hk,2014-11-07T00:34:37.483Z,"1 km N of Monte di Procida, Italy",earthquake,,,,2,reviewed,us,us
+1984-03-01T11:56:18.290Z,41.468,13.839,10,3.6,ml,,,,1.3,us,usp00022cm,2014-11-07T00:34:34.121Z,"2 km SSE of Cassino, Italy",earthquake,,,,,reviewed,us,rmp
+1984-02-28T05:36:56.970Z,41.446,13.834,10,3.7,ml,,,,1.3,us,usp00022ar,2014-11-07T00:34:32.101Z,"4 km E of Pignataro Interamna, Italy",earthquake,,,,,reviewed,us,rmp
+1984-02-21T03:31:28.290Z,40.759,15.313,10,2.9,md,,,,1.1,us,usp0002253,2014-11-07T00:34:31.384Z,"3 km S of Laviano, Italy",earthquake,,,,,reviewed,us,dui
+1984-01-05T12:39:39.320Z,40.129,15.716,10,4.2,mb,,,,1.2,us,usp000211v,2014-11-07T00:34:21.506Z,"3 km W of Lagonegro, Italy",earthquake,,,,4,reviewed,us,us
+1983-12-30T22:19:33.030Z,40.811,14.117,11.9,3,ml,,,,0.9,us,usp00020xr,2014-11-07T00:34:17.840Z,"3 km ENE of Bacoli, Italy",earthquake,,2.3,,,reviewed,us,rmp
+1983-12-20T20:20:46.530Z,40.795,14.225,10,3.1,ml,,,,1,us,usp00020nq,2014-11-07T00:34:15.997Z,"2 km SE of Posillipo, Italy",earthquake,,,,,reviewed,us,rmp
+1983-10-18T23:46:37.280Z,40.715,15.546,10,3.9,mb,,,,1.3,us,usp0001z32,2014-11-07T00:34:00.148Z,"3 km NW of Scalo di Baragiano, Italy",earthquake,,,,1,reviewed,us,us
+1983-10-04T07:09:59.500Z,40.825,14.09,11,3.7,mb,,,,0.9,us,usp0001ytc,2014-11-07T00:33:55.625Z,"2 km SSW of Pozzuoli, Italy",earthquake,,1.5,,1,reviewed,us,us
+1983-09-30T11:30:40.160Z,41.805,16.108,10,4.1,ml,,,,1.4,us,usp0001yrh,2014-11-07T00:33:51.937Z,"10 km SSW of Vieste, Italy",earthquake,,,,,reviewed,us,tri
+1983-09-29T01:23:39.990Z,40.363,14.923,12.6,4.6,mb,,,,1.5,us,usp0001yqk,2014-11-07T00:33:51.818Z,"5 km WNW of Agropoli, Italy",earthquake,,3.5,,4,reviewed,us,us
+1983-09-20T16:28:47.790Z,40.883,15.206,10,4.3,mb,,,,1.4,us,usp0001ygw,2014-11-07T00:33:50.158Z,"1 km E of Lioni, Italy",earthquake,,,,2,reviewed,us,us
+1983-09-19T03:29:46.470Z,41.718,14.273,10,3.3,ml,,,,1.3,us,usp0001yfv,2014-11-07T00:33:49.505Z,"1 km WNW of Carovilli, Italy",earthquake,,,,,reviewed,us,kba
+1983-08-12T19:36:30.750Z,41.751,13.849,10,4.6,mb,,,,1.2,us,usp0001xmy,2020-08-26T22:51:39.056Z,"3 km SSE of Opi, Italy",earthquake,,,,9,reviewed,us,us
+1983-07-27T19:04:32.180Z,40.623,15.227,24.7,4.4,mb,,,,1.1,us,usp0001x5q,2014-11-07T00:33:30.815Z,"3 km SSW of Contursi Terme, Italy",earthquake,,3.6,,2,reviewed,us,us
+1983-02-02T08:14:15.760Z,40.588,15.737,10,4.3,mb,,,,1.4,us,usp0001st9,2014-11-07T00:32:37.062Z,"4 km WNW of Pignola, Italy",earthquake,,,,5,reviewed,us,us
+1983-01-03T00:39:55.110Z,40.933,14.371,10,3.6,ml,,,,0.9,us,usp0001ryx,2014-11-07T00:32:26.348Z,"1 km S of Acerra, Italy",earthquake,,,,,reviewed,us,tri
+1982-12-28T05:44:31.240Z,41.179,15.662,10,3.4,ml,,,,1.3,us,usp0001rth,2014-11-07T00:32:22.464Z,"8 km ESE of Ascoli Satriano, Italy",earthquake,,,,,reviewed,us,tri
+1982-09-30T00:13:07.960Z,40.895,15.414,10,4,mb,,,,1.3,us,usp0001px2,2014-11-07T00:31:55.206Z,"3 km SSE of Calitri, Italy",earthquake,,,,3,reviewed,us,us
+1982-09-08T19:00:46.090Z,41.392,14.949,10,4.3,ml,,,,1.1,us,usp0001pfq,2014-11-07T00:31:52.481Z,"2 km W of Baselice, Italy",earthquake,,,,,reviewed,us,tri
+1982-08-28T05:24:01.940Z,40.739,15.171,33,3.5,mb,,,,1.3,us,usp0001p9r,2014-11-07T00:31:47.632Z,"2 km W of Senerchia, Italy",earthquake,,,,1,reviewed,us,us
+1982-08-15T15:09:49.910Z,40.806,15.359,10,4.4,mb,,,,1.2,us,usp0001p2g,2020-08-26T22:10:08.526Z,"2 km E of Santomenna, Italy",earthquake,,,,6,reviewed,us,us
+1982-04-24T01:44:55.280Z,41.067,15.197,33,3.4,mb,,,,1.3,us,usp0001kwu,2014-11-07T00:31:10.794Z,"0 km SW of San Sossio Baronia, Italy",earthquake,,,,2,reviewed,us,us
+1982-04-11T23:41:10.420Z,40.837,15.368,33,2.9,ml,,,,1.6,us,usp0001knh,2014-11-07T00:31:07.770Z,"0 km S of Sant'Andrea di Conza, Italy",earthquake,,,,,reviewed,us,ori
+1981-12-26T15:59:14.800Z,41.706,14.808,10,3,ml,,,,1.3,us,usp0001hp5,2014-11-07T00:30:33.543Z,"1 km N of Ripabottoni, Italy",earthquake,,,,,reviewed,us,rmp
+1981-12-20T02:41:53.440Z,40.311,15.918,74.6,4.1,mb,,,,1.1,us,usp0001hhc,2014-11-07T00:30:32.503Z,"3 km SSE of Viggiano, Italy",earthquake,,6,,4,reviewed,us,us
+1981-11-29T05:06:47.030Z,40.738,15.642,33,4.3,mb,,,,1.5,us,usp0001h6f,2014-11-07T00:30:25.696Z,"4 km NW of Ruoti, Italy",earthquake,,,,5,reviewed,us,us
+1981-09-24T12:20:24.800Z,40.738,15.91,10,4.1,ml,,,,1.4,us,usp0001g2m,2014-11-07T00:30:07.197Z,"1 km WNW of Cancellara, Italy",earthquake,,,,,reviewed,us,tri
+1981-09-21T16:12:29.980Z,40.743,15.759,5.2,3.8,mb,,,,1.1,us,usp0001g0z,2014-11-07T00:30:06.975Z,"3 km ENE of Avigliano, Italy",earthquake,,2.8,,2,reviewed,us,us
+1981-09-21T01:40:28.450Z,40.678,15.672,33,3.9,ml,,,,1,us,usp0001g0g,2014-11-07T00:30:06.835Z,"4 km SSW of Ruoti, Italy",earthquake,,,,,reviewed,us,rmp
+1981-09-20T15:31:31.170Z,40.692,15.735,27.2,3.4,ml,,,,1.3,us,usp0001g05,2014-11-07T00:30:06.752Z,"4 km SSE of Avigliano, Italy",earthquake,,5.4,,,reviewed,us,rmp
+1981-09-15T05:02:09.020Z,40.415,15.409,41.5,3.5,mb,,,,1,us,usp0001fw5,2014-11-07T00:30:05.868Z,"3 km SE of Corleto Monforte, Italy",earthquake,,11.8,,1,reviewed,us,us
+1981-03-28T11:01:27.000Z,40.797,15.562,10,4.1,mb,,,,1.1,us,usp0001cxa,2014-11-07T00:29:06.367Z,"2 km SE of San Fele, Italy",earthquake,,,,4,reviewed,us,us
+1981-02-27T03:37:32.140Z,40.733,15.506,10,3.4,mb,,,,1.1,us,usp0001ceq,2014-11-07T00:28:57.800Z,"2 km SSE of Muro Lucano, Italy",earthquake,,,,1,reviewed,us,us
+1981-02-15T17:22:26.460Z,40.605,15.541,10,3.4,mb,,,,1.4,us,usp0001c6y,2014-11-07T00:28:55.705Z,"2 km E of Vietri di Potenza, Italy",earthquake,,,,1,reviewed,us,us
+1981-02-14T17:27:44.330Z,41.051,14.601,10,4.6,mb,,,,1,us,usp0001c6b,2020-07-07T23:32:58.929Z,"2 km NNE of Rotondi, Italy",earthquake,,,,12,reviewed,us,us
+1981-02-11T12:44:54.690Z,40.837,15.153,10,3.3,ml,,,,1.2,us,usp0001c4e,2014-11-07T00:28:54.635Z,"5 km SSW of Lioni, Italy",earthquake,,,,,reviewed,us,rmp
+1981-02-03T18:32:11.790Z,41.084,15.788,10,3.2,ml,,,,0.8,us,usp0001c19,2014-11-07T00:28:51.792Z,"4 km N of Lavello, Italy",earthquake,,,,,reviewed,us,rmp
+1981-01-30T22:37:22.700Z,41.366,15.894,10,3.5,mb,,,,,us,usp0001bz5,2014-11-06T23:24:29.005Z,"11 km N of Cerignola, Italy",earthquake,,,,,reviewed,us,us
+1981-01-22T14:41:23.400Z,41.033,15.479,10,3.8,mb,,,,,us,usp0001buv,2014-11-06T23:24:28.790Z,"5 km N of Aquilonia, Italy",earthquake,,,,,reviewed,us,us
+1981-01-20T08:55:05.300Z,40.702,15.421,10,4,mb,,,,,us,usp0001btx,2014-11-06T23:24:28.761Z,"5 km NNE of San Gregorio Magno, Italy",earthquake,,,,,reviewed,us,us
+1981-01-17T03:03:59.700Z,40.755,15.456,10,4,mb,,,,,us,usp0001brv,2014-11-06T23:24:28.700Z,"2 km W of Muro Lucano, Italy",earthquake,,,,,reviewed,us,us
+1981-01-16T06:31:26.100Z,41.036,15.317,10,4.1,ml,,,,,us,usp0001brd,2014-11-06T23:24:28.686Z,"4 km NW of Bisaccia Nuova, Italy",earthquake,,,,,reviewed,us,tri
+1981-01-16T04:36:51.400Z,40.854,15.406,10,4.3,mb,,,,,us,usp0001bra,2014-11-06T23:24:28.683Z,"2 km NNE of Pescopagano, Italy",earthquake,,,,,reviewed,us,us
+1981-01-16T00:37:46.800Z,40.945,15.368,15,5.3,ms,,,,,us,usp0001br9,2016-11-09T21:40:55.012Z,southern Italy,earthquake,,,,,reviewed,us,us
+1981-01-15T11:12:42.800Z,40.881,15.427,10,4.5,mb,,,,,us,usp0001bqx,2014-11-06T23:24:28.670Z,"5 km ESE of Cairano, Italy",earthquake,,,,,reviewed,us,us
+1981-01-09T00:12:49.200Z,40.772,15.761,10,4.2,mb,,,,,us,usp0001bna,2014-11-06T23:24:28.587Z,"5 km NE of Avigliano, Italy",earthquake,,,,,reviewed,us,us
+1980-12-29T22:53:29.700Z,40.481,15.121,10,3.9,ml,,,,,us,usp0001bh8,2014-11-06T23:24:28.464Z,"0 km ENE of Albanella, Italy",earthquake,,,,,reviewed,us,rom
+1980-12-16T18:33:48.500Z,41.107,15.433,10,3.1,ml,,,,,us,usp0001bae,2014-11-06T23:24:28.045Z,"2 km W of Rocchetta Sant'Antonio, Italy",earthquake,,,,,reviewed,us,rom
+1980-12-14T06:03:32.100Z,40.902,15.254,10,4.4,mb,,,,,us,usp0001b9a,2014-11-06T23:24:28.009Z,"3 km SSE of Morra de Sanctis, Italy",earthquake,,,,,reviewed,us,us
+1980-12-13T00:17:12.600Z,41.065,15.508,10,3,mb,,,,,us,usp0001b8t,2014-11-06T23:24:27.994Z,"5 km SE of Rocchetta Sant'Antonio, Italy",earthquake,,,,,reviewed,us,us
+1980-12-12T09:09:19.800Z,40.8,15.507,10,3.8,mb,,,,,us,usp0001b8a,2014-11-06T23:24:27.980Z,"3 km WSW of San Fele, Italy",earthquake,,,,,reviewed,us,us
+1980-12-12T05:46:48.500Z,40.791,15.545,10,3.5,mb,,,,,us,usp0001b87,2014-11-06T23:24:27.977Z,"2 km S of San Fele, Italy",earthquake,,,,,reviewed,us,us
+1980-12-08T04:09:23.100Z,40.823,15.24,10,4.3,mb,,,,,us,usp0001b6r,2014-11-06T23:24:27.929Z,"1 km ENE of Caposele, Italy",earthquake,,,,,reviewed,us,us
+1980-12-08T02:49:39.600Z,40.911,15.291,10,4.2,mb,,,,,us,usp0001b6p,2014-11-06T23:24:27.927Z,"4 km SW of Andretta-Mattinella, Italy",earthquake,,,,,reviewed,us,us
+1980-12-04T00:04:55.700Z,40.861,15.505,10,4.5,mb,,,,,us,usp0001b59,2014-11-06T23:24:27.884Z,"1 km NNE of Rapone, Italy",earthquake,,,,,reviewed,us,us
+1980-12-03T23:54:24.200Z,40.738,15.479,10,4.7,mb,,,,,us,usp0001b58,2014-11-06T23:24:27.883Z,"1 km SSW of Muro Lucano, Italy",earthquake,,,,,reviewed,us,us
+1980-12-03T07:49:39.400Z,41.095,15.784,10,3.9,mb,,,,,us,usp0001b4u,2014-11-06T23:24:27.869Z,"5 km N of Lavello, Italy",earthquake,,,,,reviewed,us,us
+1980-12-02T16:12:30.300Z,41.138,15.288,10,4.1,mb,,,,,us,usp0001b4n,2014-11-06T23:24:27.864Z,"1 km N of Anzano di Puglia, Italy",earthquake,,,,,reviewed,us,us
+1980-12-01T19:04:29.600Z,41.017,15.276,10,4.4,mb,,,,,us,usp0001b4b,2014-11-06T23:24:27.852Z,"3 km SE of Vallata, Italy",earthquake,,,,,reviewed,us,us
+1980-12-01T04:08:15.300Z,41.291,15.113,10,4.2,ml,,,,,us,usp0001b42,2014-11-06T23:24:27.843Z,"2 km ESE of Castelfranco in Miscano, Italy",earthquake,,,,,reviewed,us,rom
+1980-11-30T07:41:58.000Z,40.845,15.328,10,5.1,mb,,,,,us,usp0001b3m,2020-08-26T21:21:13.267Z,"1 km SSW of Nuova Conza della Campania, Italy",earthquake,,,,,reviewed,us,us
+1980-11-30T01:51:47.600Z,40.517,15.729,10,4.6,mb,,,,,us,usp0001b3e,2020-08-26T21:21:00.712Z,"5 km NE of Sasso di Castalda, Italy",earthquake,,,,,reviewed,us,us
+1980-11-28T17:29:11.100Z,41.347,15.133,10,4.3,mb,,,,,us,usp0001b2f,2014-11-06T23:24:27.793Z,"3 km NW of Faeto, Italy",earthquake,,,,,reviewed,us,us
+1980-11-28T12:14:26.200Z,40.789,15.331,10,3.7,mb,,,,,us,usp0001b2b,2014-11-06T23:24:27.789Z,"1 km E of Laviano, Italy",earthquake,,,,,reviewed,us,us
+1980-11-26T14:55:40.700Z,41.017,15.236,10,4.7,mb,,,,,us,usp0001b1e,2014-11-06T23:24:27.762Z,"2 km ESE of Carife, Italy",earthquake,,,,,reviewed,us,us
+1980-11-26T10:47:52.400Z,40.913,15.455,10,4.1,mb,,,,,us,usp0001b1a,2014-11-06T23:24:27.725Z,"4 km ESE of Calitri, Italy",earthquake,,,,,reviewed,us,us
+1980-11-26T08:31:06.100Z,40.97,15.346,10,4.5,mb,,,,,us,usp0001b12,2014-11-06T23:24:27.688Z,"4 km NNE of Andretta-Mattinella, Italy",earthquake,,,,,reviewed,us,us
+1980-11-26T07:03:06.900Z,40.877,15.376,10,4.4,ml,,,,,us,usp0001b0z,2014-11-06T23:24:27.685Z,"2 km SSE of Cairano, Italy",earthquake,,,,,reviewed,us,tri
+1980-11-26T06:56:56.300Z,41.075,15.277,10,4.3,mb,,,,,us,usp0001b0y,2014-11-06T23:24:27.684Z,"2 km ENE of Vallesaccarda, Italy",earthquake,,,,,reviewed,us,us
+1980-11-26T06:06:09.900Z,40.694,15.643,10,4.5,ml,,,,,us,usp0001b0w,2014-11-06T23:24:27.682Z,"4 km SW of Ruoti, Italy",earthquake,,,,,reviewed,us,tri
+1980-11-25T21:53:36.700Z,41.198,15.298,10,4.4,ml,,,,,us,usp0001b0k,2014-11-06T23:24:27.672Z,"3 km SE of Panni, Italy",earthquake,,,,,reviewed,us,tri
+1980-11-25T18:28:21.500Z,40.653,15.399,10,5.3,ms,,,,,us,usp0001b0g,2016-11-10T00:02:55.929Z,"0 km S of San Gregorio Magno, Italy",earthquake,,,,,reviewed,us,us
+1980-11-25T17:26:41.000Z,40.709,15.478,10,4.4,ml,,,,,us,usp0001b0e,2014-11-06T23:24:27.665Z,"4 km N of Ricigliano, Italy",earthquake,,,,,reviewed,us,tri
+1980-11-25T17:06:44.000Z,40.697,15.474,10,4.6,mb,,,,,us,usp0001b0c,2014-11-06T23:24:27.663Z,"3 km N of Ricigliano, Italy",earthquake,,,,,reviewed,us,us
+1980-11-25T14:57:54.200Z,40.77,15.324,10,4.1,mb,,,,,us,usp0001b0a,2014-11-06T23:24:27.661Z,"2 km SE of Laviano, Italy",earthquake,,,,,reviewed,us,us
+1980-11-25T13:22:57.400Z,40.767,15.346,10,4.3,ml,,,,,us,usp0001b07,2014-11-06T23:24:27.658Z,"3 km ESE of Laviano, Italy",earthquake,,,,,reviewed,us,tri
+1980-11-25T11:28:19.900Z,40.864,15.24,10,4.4,ml,,,,,us,usp0001b06,2014-11-06T23:24:27.657Z,"1 km NW of Teora, Italy",earthquake,,,,,reviewed,us,tri
+1980-11-25T09:59:31.800Z,41.021,15.012,10,4.3,mb,,,,,us,usp0001b03,2014-11-06T23:24:27.655Z,southern Italy,earthquake,,,,,reviewed,us,us
+1980-11-24T15:13:29.300Z,40.962,15.008,10,4.5,mb,,,,,us,usp0001azd,2014-11-06T23:24:27.633Z,"2 km WSW of Paternopoli, Italy",earthquake,,,,,reviewed,us,us
+1980-11-24T10:16:21.100Z,40.871,15.204,10,4,mb,,,,,us,usp0001aza,2014-11-06T23:24:27.631Z,"2 km ESE of Lioni, Italy",earthquake,,,,,reviewed,us,us
+1980-11-24T04:47:30.300Z,40.907,15.388,10,4.2,mb,,,,,us,usp0001az1,2014-11-06T23:24:27.622Z,"1 km NE of Cairano, Italy",earthquake,,,,,reviewed,us,us
+1980-11-24T04:23:16.200Z,40.976,15.252,10,4.2,mb,,,,,us,usp0001ayz,2014-11-06T23:24:27.620Z,"4 km NE of Guardia Lombardi, Italy",earthquake,,,,,reviewed,us,us
+1980-11-24T03:03:53.700Z,40.901,15.33,10,4.4,mb,,,,,us,usp0001ayw,2014-11-06T23:24:27.617Z,"3 km W of Cairano, Italy",earthquake,,,,,reviewed,us,us
+1980-11-24T02:19:22.900Z,40.767,15.357,10,4.5,mb,,,,,us,usp0001ays,2014-11-06T23:24:27.614Z,"4 km ESE of Laviano, Italy",earthquake,,,,,reviewed,us,us
+1980-11-24T00:23:59.500Z,40.889,15.255,10,4.7,mb,,,,,us,usp0001ayp,2014-11-06T23:24:27.611Z,"4 km N of Teora, Italy",earthquake,,,,,reviewed,us,us
+1980-11-24T00:04:19.700Z,41.429,15.755,10,4.4,ml,,,,,us,usp0001ayn,2014-11-06T23:24:27.610Z,"8 km NE of Carapelle, Italy",earthquake,,,,,reviewed,us,tri
+1980-11-23T23:43:31.700Z,40.832,15.306,10,4.3,mb,,,,,us,usp0001ayk,2014-11-06T23:24:27.608Z,"1 km NW of Castelnuovo di Conza, Italy",earthquake,,,,,reviewed,us,us
+1980-11-23T22:57:25.500Z,40.955,15.088,10,4.4,mb,,,,,us,usp0001ayh,2014-11-06T23:24:27.605Z,"1 km S of Villamaina, Italy",earthquake,,,,,reviewed,us,us
+1980-11-23T21:53:14.000Z,41.536,15.706,10,4.2,mb,,,,,us,usp0001aye,2014-11-06T23:24:27.602Z,"15 km ENE of Foggia, Italy",earthquake,,,,,reviewed,us,us
+1980-11-23T20:55:26.000Z,40.804,15.296,10,4.5,mb,,,,,us,usp0001ayd,2014-11-06T23:24:27.601Z,"2 km NNW of Laviano, Italy",earthquake,,,,,reviewed,us,us
+1980-11-23T20:06:16.800Z,40.968,15.369,10,4.6,mb,,,,,us,usp0001ayb,2014-11-06T23:24:27.599Z,"4 km S of Bisaccia, Italy",earthquake,,,,,reviewed,us,us
+1980-11-23T19:37:44.300Z,40.847,15.354,10,4.7,mb,,,,,us,usp0001aya,2014-11-06T23:24:27.597Z,"1 km W of Sant'Andrea di Conza, Italy",earthquake,,,,,reviewed,us,us
+1980-11-23T19:09:45.800Z,41.119,15.867,10,4.4,mb,,,,,us,usp0001ay9,2014-11-06T23:24:27.509Z,"10 km NE of Lavello, Italy",earthquake,,,,,reviewed,us,us
+1980-11-23T19:06:44.900Z,40.718,15.592,10,4.4,mb,,,,,us,usp0001ay8,2014-11-06T23:24:27.508Z,"2 km NNE of Scalo di Baragiano, Italy",earthquake,,,,,reviewed,us,us
+1980-11-23T19:04:02.700Z,40.673,15.605,10,4.5,mb,,,,,us,usp0001ay7,2014-11-06T23:24:27.507Z,"1 km SE of Baragiano, Italy",earthquake,,,,,reviewed,us,us
+1980-11-23T18:52:06.300Z,41.11,15.282,10,4.6,mb,,,,,us,usp0001ay5,2014-11-06T23:24:27.505Z,,earthquake,,,,,reviewed,us,us
+1980-11-23T18:34:53.800Z,40.914,15.366,10,6.9,ms,,,,,us,usp0001ay4,2020-07-07T23:31:31.776Z,"2 km N of Cairano, Italy",earthquake,,,,,reviewed,us,us
+1980-05-14T01:54:00.900Z,40.355,15.867,45,3.2,mb,,,,,us,usp000176t,2014-11-06T23:24:21.767Z,"3 km WNW of Viggiano, Italy",earthquake,,,,,reviewed,us,us
+1980-05-14T01:41:03.800Z,40.459,15.855,24,4.5,mb,,,,,us,usp000176s,2020-08-26T21:00:36.293Z,"1 km S of Calvello, Italy",earthquake,,,,,reviewed,us,us
+1980-01-31T14:33:22.500Z,41.268,14.889,10,3.3,ml,,,,,us,usp0001598,2014-11-06T23:24:17.351Z,"3 km NE of Pago Veiano, Italy",earthquake,,,,,reviewed,us,rom
+1978-09-24T08:07:44.800Z,40.797,16.108,28,4.2,mb,,,,,us,usp0000wq0,2014-11-06T23:21:52.505Z,"8 km SE of Genzano di Lucania, Italy",earthquake,,,,,reviewed,us,us
+1978-02-08T04:10:31.800Z,41.111,14.889,95,5,mb,,,,,us,usp0000svj,2014-11-06T23:21:46.911Z,"3 km WSW of Apice Vecchio, Italy",earthquake,,,,,reviewed,us,us
+1977-07-24T09:55:27.500Z,41.065,15.186,33,3.9,ml,,,,,us,usp0000pv0,2014-11-06T23:21:43.092Z,"1 km WNW of San Nicola Baronia, Italy",earthquake,,,,,reviewed,us,sko
+1977-06-06T17:58:32.900Z,40.864,15.241,33,4,ml,,,,,us,usp0000p6f,2014-11-06T23:21:42.267Z,"1 km NW of Teora, Italy",earthquake,,,,,reviewed,us,sko
+1977-03-29T01:17:37.100Z,41.727,16.401,10,4.7,ml,,,,,us,usp0000n5v,2014-11-06T23:21:40.535Z,"25 km SE of Vieste, Italy",earthquake,,,,,reviewed,us,tri
+1976-08-17T11:00:19.500Z,41.306,15.319,33,3.4,ml,,,,,us,usp0000hwg,2014-11-06T23:21:36.766Z,"5 km ENE of Orsara di Puglia, Italy",earthquake,,,,,reviewed,us,sko
+1975-06-19T10:11:13.600Z,41.696,15.766,16,5.1,mb,,,,,us,usp0000bnj,2020-08-26T00:22:08.257Z,"3 km ESE of San Giovanni Rotondo, Italy",earthquake,,,,,reviewed,us,us
+1973-10-30T01:14:06.000Z,41.728,13.869,33,4.4,mb,,,,,us,usp00003zx,2014-11-06T23:21:21.083Z,"5 km ENE of San Donato Val di Comino, Italy",earthquake,,,,,reviewed,us,us
+1973-08-08T14:36:11.000Z,40.822,15.389,33,4.7,mb,,,,,us,usp000031f,2014-11-06T23:21:17.589Z,"1 km SSW of Pescopagano, Italy",earthquake,,,,,reviewed,us,us
